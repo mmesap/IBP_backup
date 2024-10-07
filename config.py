@@ -1,0 +1,19 @@
+INVALID_VALUES = {"No registra", "No Registra", "null", "Null", "No tiene", "+Noregistra", "+Noseencontro", "No se encontro", "+", "+null", "+Null", "+NoRegistra", "+http:" }
+REQUIRED_COLUMNS = ["ETIQUETAS", "CAMPAÑA", "PROPIETARIO", "IMPORTE", "MONEDA", "FECHA CIERRE", "ESTADO", "FLUJO", "ETAPA"]
+
+NAME_COLUMN = "NOMBRE COMERCIAL EMPRESA"
+FIRST_NAME_COLUMN = "NOMBRES"
+LAST_NAME_COLUMN = "APELLIDOS"
+TAGS = "ETIQUETAS"
+CAMPAIGN = "CAMPAÑA"
+OWNER = "PROPIETARIO"
+CURRENCY = "MONEDA"
+AMOUNT = "IMPORTE"
+STATE = "ESTADO"
+STAGE = "ETAPA"
+FLOW = "FLUJO"
+CLOSING_DATE = "FECHA CIERRE"
+
+
+
+
