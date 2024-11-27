@@ -8,17 +8,12 @@ def main(book_name):
     # Seleccionar la hoja activa
     sheet = book.active
     string = """
-Wacom
-AWS
-Master Card
-Lineea DataScan
-BTG Pactual 
-Coppel
-Avante group SAS
-ISSQUARED Inc
-Lennox
-Samsung 
-Circulo Corp
+Universidad de los Andes
+Vehicentro
+Aseguradora del Sur C.A
+Quimica Industrial Montalvo Aguilar
+Industria Ecuatoriana de Cables Incable
+Negocios De Telefonia Nedetel S.A
 """
 
     # Lista de empresas

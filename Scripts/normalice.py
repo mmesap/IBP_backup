@@ -1,38 +1,14 @@
 string = """
-Teleperformance
-Lenovo
-QMC Telecom
-Qualtrics
-Superior Energy Services
-IBP
-Alfa
-AWS
-Infobip
-Meltec
-Arris
-Redeban
-Intel Corporation
-Abbot - Lafrancol
-Gilead
-Kyndryl
-Bizagi
-IBM
-Ingram Micro
-Epson Latam
-Lablium 
-TD SYNNEX
-Oracle
-Microsoft
-Motorola Solutions
-SAP
-VIVO Mexico
-NCR
-Procaps
-Innovasport
-Indices CognoSight
-Sales Force
-Hassar Mexico
-Master Card
+Automotores Continental
+Ecuasanitas
+Banco Del Pacífico
+Banco General Rumiñahui
+Banecuador
+Consorcio Nobis
+Cooprogreso
+Difare
+Mega Santamaria Sa
+Mega Santamaria S.A.
 """
 EMPRESAS = string.split("\n")
 
