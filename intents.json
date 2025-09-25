@@ -1,0 +1,146 @@
+{
+  "intents": [
+    {
+      "displayName": "welcome_message",
+      "trainingPhrases": [
+        { "parts": [{ "text": "Hola" }] },
+        { "parts": [{ "text": "Me registré en el evento" }] },
+        { "parts": [{ "text": "Quiero saber más del evento" }] }
+      ],
+      "messages": [
+        {
+          "text": {
+            "text": [
+              "\u00a1Hola! 👋 Soy ibp, me da mucho gusto saludarte. Te doy la bienvenida a nuestra comunidad de generación de demanda. Gracias por registrarte en nuestro evento Master Class ibp. 🚀\n\nSíguenos en LinkedIn o mira los testimoniales de nuestros clientes en https://www.youtube.com/@internationalbusinesspartn5199\n\nEn ibp cuidamos tus datos. Nuestra política de privacidad: https://www.genesys.com/company/legal/privacy-policy.\n\nEn lo que valido tu información, te invito a conocer por qué las empresas eligen a ibp como agencia de generación de demanda. 😉\n\nCorreo: grobles@ibpla.com\nTeléfono: 3182479857\n\n¿Tus datos son correctos?"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "displayName": "verify_data_yes",
+      "trainingPhrases": [
+        { "parts": [{ "text": "sí" }] },
+        { "parts": [{ "text": "correcto" }] },
+        { "parts": [{ "text": "está bien" }] }
+      ],
+      "messages": [
+        {
+          "text": {
+            "text": ["¡Gracias! ¿Podrías decirme el nombre de tu empresa?"]
+          }
+        }
+      ]
+    },
+    {
+      "displayName": "verify_data_no",
+      "trainingPhrases": [
+        { "parts": [{ "text": "no" }] },
+        { "parts": [{ "text": "hay un error" }] },
+        { "parts": [{ "text": "mis datos están mal" }] }
+      ],
+      "messages": [
+        {
+          "text": {
+            "text": [
+              "Entiendo, por favor indícame lo siguiente:\nPuedes enviar cada dato por separado o en un solo mensaje:\n1. Tu nombre completo\n2. Tu correo electrónico\n3. Si tu correo es Hotmail, Gmail, etc., indícame también tu correo corporativo\n4. El nombre de tu empresa"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "displayName": "collect_name",
+      "trainingPhrases": [
+        { "parts": [{ "text": "Mi nombre es Joel Contreras" }] },
+        { "parts": [{ "text": "Soy Joel Contreras" }] },
+        { "parts": [{ "text": "Joel Contreras" }] },
+        { "parts": [{ "text": "Nombre: Joel Contreras" }] }
+      ],
+      "messages": [
+        {
+          "text": {
+            "text": ["Gracias, ahora por favor indícame tu correo electrónico"]
+          }
+        }
+      ]
+    },
+    {
+      "displayName": "collect_email",
+      "trainingPhrases": [
+        { "parts": [{ "text": "Mi correo es jocontreras@ibpla.com" }] },
+        { "parts": [{ "text": "Puedes escribirme a jocontreras@ibpla.com" }] },
+        { "parts": [{ "text": "Correo: jocontreras@ibpla.com" }] },
+        { "parts": [{ "text": "jocontreras@ibpla.com" }] }
+      ],
+      "messages": [
+        {
+          "text": {
+            "text": [
+              "Perfecto. Si tu correo es de Gmail, Hotmail u otro gratuito, ¿puedes darme también tu correo corporativo?"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "displayName": "collect_company",
+      "trainingPhrases": [
+        { "parts": [{ "text": "Trabajo en IBP" }] },
+        { "parts": [{ "text": "Mi empresa es IBP" }] },
+        { "parts": [{ "text": "IBP" }] },
+        { "parts": [{ "text": "Empresa: IBP" }] }
+      ],
+      "messages": [
+        {
+          "text": {
+            "text": ["Gracias. Ya con esta información podemos continuar"]
+          }
+        }
+      ]
+    },
+    {
+      "displayName": "topic_survey",
+      "trainingPhrases": [
+        { "parts": [{ "text": "A" }] },
+        { "parts": [{ "text": "B" }] },
+        { "parts": [{ "text": "C" }] },
+        { "parts": [{ "text": "D" }] },
+        { "parts": [{ "text": "E" }] }
+      ],
+      "parameters": [
+        {
+          "displayName": "opcion_evento",
+          "entityTypeDisplayName": "@sys.any",
+          "value": "$opcion_evento"
+        }
+      ],
+      "messages": [
+        {
+          "text": {
+            "text": [
+              "¡Excelente, gracias por confirmar tus datos! 👍\n\n¿En qué te gustaría hacer énfasis en nuestra master class?\n\nA. Calificación de oportunidades ( BANT )\nB. Calificación de oportunidades 8Cs\nC. BOTS con AI para WhatsApp\nD. Estrategias de generación y auditoría del pipeline\nE. Todos los anteriores"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "displayName": "final_message",
+      "trainingPhrases": [
+        { "parts": [{ "text": "gracias" }] },
+        { "parts": [{ "text": "listo" }] },
+        { "parts": [{ "text": "ya respondí" }] }
+      ],
+      "messages": [
+        {
+          "text": {
+            "text": [
+              "Excelente, puedes seguirnos en LinkedIn para tener acceso a nuestras publicaciones: https://www.linkedin.com/company/3841607\n\nTambién puedes compartir este link con tus colegas para que se registren: [tu_link_de_registro_aqui]"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -3,17 +3,60 @@ import argparse
 
 def main(book_name):
     # Cargar el libro de Excel
-    book = openpyxl.load_workbook('./Data/GlobalDataUpdated (version 2) 05-11-2024.xlsx')
+    book = openpyxl.load_workbook('./Data/GlobalDataUpdated13-07-2025.xlsx')
 
     # Seleccionar la hoja activa
     sheet = book.active
-    string = """
-Universidad de los Andes
-Vehicentro
-Aseguradora del Sur C.A
-Quimica Industrial Montalvo Aguilar
-Industria Ecuatoriana de Cables Incable
-Negocios De Telefonia Nedetel S.A
+    string = """Vivo Corp
+Workmate
+Automotriz Salfa Sur Ltda
+Reutter S.A.
+Supermercado del Neumatico Ltda.
+Empresas Melón
+Melón
+Valvulas Industriales S.A.
+Clinical Market s.a.
+Epysa Implementos Ltda.
+VETO Y CIA LTDA.
+Tecno Fast
+Vina Santa Carolina Sa Santiago Cl
+Mora Pavic Odontología
+Club Providencia
+BENEO
+Tucapel
+Viña De Martino
+Vitel Energia
+UCMChile - Unidad Coronaria Móvil
+TECNOGLOBAL
+ALO GROUP
+ARRIMAQ
+GRUPO PESCO
+GRUPO SIMMA
+JANSSEN SA
+KOMATSU REMAN CENTER CHILE
+KSB CHILE SA
+AKVA group Chile
+PRECISION
+Samsung Electronics Chile
+Laboratorio Chile | Teva
+Tecnofarma Sa
+Compañia Chilena de Fosforos S.A.
+Mainstream Renewable Power
+Automotores Gildemeister SpA
+Caren SpA
+Isa Intervial
+Moneda Asset
+Moneda Asset Management
+Multicaja Sa
+Uno Afp
+Colbun S.A
+Synthon
+Caffarena
+Artel Sa
+Bash Administracion Limitada
+Cia. Industrial El Volcan S.A.
+Cosmoplas S.A.
+CAP S.A.
 """
 
     # Lista de empresas
@@ -27,6 +70,7 @@ Negocios De Telefonia Nedetel S.A
     # Buscar la columna "NOMBRE COMERCIAL EMPRESA"
     col_index = None
     for col in sheet.iter_cols(1, sheet.max_column):
+        # if col[0].value == "URL LINKEDIN EMPRESA": 
         if col[0].value == "NOMBRE COMERCIAL EMPRESA":
             col_index = col[0].column
             break

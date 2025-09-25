@@ -4,7 +4,7 @@ import pandas as pd
 # Ruta de la carpeta con los archivos de Excel de origen
 carpeta_origen = './data_profiling'  # Cambia esto a la ruta de tu carpeta
 # Ruta del archivo de Excel principal donde se agregarán los datos
-archivo_destino = './Data/GlobalDataUpdated (version 2) 05-11-2024.xlsx'  # Cambia esto a la ruta de tu archivo principal
+archivo_destino = './Data/GlobalDataUpdated13-07-2025.xlsx'  # Cambia esto a la ruta de tu archivo principal
 
 # Leer el archivo principal o crear un DataFrame vacío si no existe
 if os.path.exists(archivo_destino):
