@@ -3,60 +3,64 @@ import argparse
 
 def main(book_name):
     # Cargar el libro de Excel
-    book = openpyxl.load_workbook('./Data/GlobalDataUpdated13-07-2025.xlsx')
+    book = openpyxl.load_workbook('./Data/GlobalDataUpdated-6-9-2025.xlsx')
 
     # Seleccionar la hoja activa
     sheet = book.active
-    string = """Vivo Corp
-Workmate
-Automotriz Salfa Sur Ltda
-Reutter S.A.
-Supermercado del Neumatico Ltda.
-Empresas Melón
-Melón
-Valvulas Industriales S.A.
-Clinical Market s.a.
-Epysa Implementos Ltda.
-VETO Y CIA LTDA.
-Tecno Fast
-Vina Santa Carolina Sa Santiago Cl
-Mora Pavic Odontología
-Club Providencia
-BENEO
-Tucapel
-Viña De Martino
-Vitel Energia
-UCMChile - Unidad Coronaria Móvil
-TECNOGLOBAL
-ALO GROUP
-ARRIMAQ
-GRUPO PESCO
-GRUPO SIMMA
-JANSSEN SA
-KOMATSU REMAN CENTER CHILE
-KSB CHILE SA
-AKVA group Chile
-PRECISION
-Samsung Electronics Chile
-Laboratorio Chile | Teva
-Tecnofarma Sa
-Compañia Chilena de Fosforos S.A.
-Mainstream Renewable Power
-Automotores Gildemeister SpA
-Caren SpA
-Isa Intervial
-Moneda Asset
-Moneda Asset Management
-Multicaja Sa
-Uno Afp
-Colbun S.A
-Synthon
-Caffarena
-Artel Sa
-Bash Administracion Limitada
-Cia. Industrial El Volcan S.A.
-Cosmoplas S.A.
-CAP S.A.
+    string = """
+AGT TECNOLOGIAS VE, S.A.
+Laboratorios Elmor, S.A.
+Oxiteno S.A.
+3PL Panamericana, C.A.
+MT2005
+Bancamiga Banco de Desarrollo
+FV & ASOCIADOS CA
+Setecsa de Venezuela
+APT TECNOLOGIA Y SISTEMAS C.A
+INDUCHEM C A
+GRUPO PHX C A
+PROAGRO PROTINAL
+FUNDACION VENEZOLANO - ALEMANA COLEGIO HUMBOLDT
+CONSORCIO CREDICARD
+FOSPUCA Internacional
+INVERSIONES RESANSIL CONSTRUCTORA
+IMPORTADORA USY C A
+Banco de Comercio Exterior-Bancoex
+TICKETMUNDO, CA.
+BANESCO SEGUROS, C.A.
+VC MEDIOS C.A.
+PRINTING SUPPLY INTERNATIONAL C A
+CENTRO DIAGNOSTICO DOCENTE LAS MERCEDES C A
+GENICA GENERAL DE ALIMENTOS NICOLAS E ISABEL DISTRIBUIDORA G
+CONSTRUCTORES DE COMERCIO CAMARGO CORREA S.A.
+DVL SERVICIO Y REPRESENTACIONES C A
+SEGUROS PIRAMIDE C A
+COSMETICOS ROLDA
+MG Group, CA.
+BOLSA DE VALORES DE CARACAS
+FUNDACIÓN OSCARYANNY
+Nozomi Salud, Casa de Representacion CA
+1000 MOTORSPORT C.A.
+IMPREGILO
+COMERCIAL GIL S.A.
+INDUSTRIAS RUANSA DE VENEZUELA
+AVIOR AIRLINES C A
+OMICRON C A
+CASA DE REPRESENTACIONES JMW CA
+FARMACIA COLSALUD CA
+BANCO PLAZA C A
+LUMALAC DAIRY PRODUCT LUMALAC C A
+INVERSIONES EMPLEATE,C.A.
+Inelectra Venezuela
+DEAR C A
+Soluciones Netready
+World Trading Casa de Bolsa CA
+CONSTRUCTORA SAMBIL
+EUROBUILDING INTERNACIONAL C A
+MINI BRUNO SUCESORES C A
+Alimentos La Caridad, C.A.
+GRIFOCENTRO C A
+ALIMENTOS MUNCHYS C A
 """
 
     # Lista de empresas
