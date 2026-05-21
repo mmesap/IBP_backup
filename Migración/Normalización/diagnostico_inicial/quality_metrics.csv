@@ -1,0 +1,9 @@
+metric,value
+invalid_corporate_emails,919
+invalid_personal_emails,929
+invalid_contact_linkedins,430
+invalid_company_linkedins,800
+invalid_cellphones,2541
+invalid_phone1,128
+invalid_phone2,63
+invalid_company_phone,1058

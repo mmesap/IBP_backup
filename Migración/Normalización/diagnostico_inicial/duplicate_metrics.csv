@@ -1,0 +1,7 @@
+entity,key_logic,rows_evaluated,duplicate_rows,duplicate_groups
+company,company_name,51672,42565,12176
+company,company_name + country,51666,41708,12982
+contact,contact_name,51671,10317,4539
+contact,corporate_email,39736,5897,2520
+contact,contact_linkedin,51463,7048,3286
+company_contact,company_name + contact_name,51664,2787,1364

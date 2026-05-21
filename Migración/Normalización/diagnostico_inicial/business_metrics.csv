@@ -1,0 +1,16 @@
+metric,value
+company_column_used,NOMBRE COMERCIAL EMPRESA
+unique_companies_by_name,21283
+country_column_used,PAÍS
+unique_companies_by_name_country,22940
+contact_column_used,INTERLOCUTOR 1
+unique_contacts_by_name,45893
+records_with_corporate_email,39736
+unique_corporate_emails,36359
+records_with_personal_email,13547
+unique_personal_emails,12093
+records_with_contact_linkedin,51463
+unique_contact_linkedins,47701
+records_with_company_linkedin,48865
+unique_company_linkedins,18631
+records_with_at_least_one_phone,49756

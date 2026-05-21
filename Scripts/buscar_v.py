@@ -3,64 +3,203 @@ import argparse
 
 def main(book_name):
     # Cargar el libro de Excel
-    book = openpyxl.load_workbook('./Data/GlobalDataUpdated-6-9-2025.xlsx')
+    book = openpyxl.load_workbook('./Data/Base global/GlobalDataUpdated-30-3-2026.xlsx')
 
     # Seleccionar la hoja activa
     sheet = book.active
     string = """
-AGT TECNOLOGIAS VE, S.A.
-Laboratorios Elmor, S.A.
-Oxiteno S.A.
-3PL Panamericana, C.A.
-MT2005
-Bancamiga Banco de Desarrollo
-FV & ASOCIADOS CA
-Setecsa de Venezuela
-APT TECNOLOGIA Y SISTEMAS C.A
-INDUCHEM C A
-GRUPO PHX C A
-PROAGRO PROTINAL
-FUNDACION VENEZOLANO - ALEMANA COLEGIO HUMBOLDT
-CONSORCIO CREDICARD
-FOSPUCA Internacional
-INVERSIONES RESANSIL CONSTRUCTORA
-IMPORTADORA USY C A
-Banco de Comercio Exterior-Bancoex
-TICKETMUNDO, CA.
-BANESCO SEGUROS, C.A.
-VC MEDIOS C.A.
-PRINTING SUPPLY INTERNATIONAL C A
-CENTRO DIAGNOSTICO DOCENTE LAS MERCEDES C A
-GENICA GENERAL DE ALIMENTOS NICOLAS E ISABEL DISTRIBUIDORA G
-CONSTRUCTORES DE COMERCIO CAMARGO CORREA S.A.
-DVL SERVICIO Y REPRESENTACIONES C A
-SEGUROS PIRAMIDE C A
-COSMETICOS ROLDA
-MG Group, CA.
-BOLSA DE VALORES DE CARACAS
-FUNDACIÓN OSCARYANNY
-Nozomi Salud, Casa de Representacion CA
-1000 MOTORSPORT C.A.
-IMPREGILO
-COMERCIAL GIL S.A.
-INDUSTRIAS RUANSA DE VENEZUELA
-AVIOR AIRLINES C A
-OMICRON C A
-CASA DE REPRESENTACIONES JMW CA
-FARMACIA COLSALUD CA
-BANCO PLAZA C A
-LUMALAC DAIRY PRODUCT LUMALAC C A
-INVERSIONES EMPLEATE,C.A.
-Inelectra Venezuela
-DEAR C A
-Soluciones Netready
-World Trading Casa de Bolsa CA
-CONSTRUCTORA SAMBIL
-EUROBUILDING INTERNACIONAL C A
-MINI BRUNO SUCESORES C A
-Alimentos La Caridad, C.A.
-GRIFOCENTRO C A
-ALIMENTOS MUNCHYS C A
+Ale Contratistas SRL.
+Girod Peru
+ALPHA FINANCE SAC
+AGZ Transportes
+Almapo S.R.L
+SPL Perú
+Iolsa
+CENADIM - DIGEMID - Ministerio de Salud Perú
+Corporación Mayo SAC
+Chung & Tong Ingenieros
+Pacific Freezing Company
+ARCOPA SA (GROUPE ADRIEN)
+Villa Salud
+Municipalidad de San Luis
+GRUPO TRANSPESA OFICIAL
+Distribuidora Bajopontina S.A.
+SEDALIB SA
+Intercorp Financial Services
+Diviso Grupo Financiero
+Coinsa - Constructores Interamericanos SAC
+Agroindustria Santa María SAC
+GRUPO LIMA BUS
+Gobierno Regional Huanuco
+Grupo Econocable
+WOW Empresas
+LC Perú
+AGRICOLA CERRO PRIETO S.A.
+Grupo Transmeridian
+FARENET
+Corporación SIC
+Municipalidad Provincial de San Martín
+SEAFROST PERÚ
+Nubyx Perú
+Constructora MPM SA
+Clinica San Juan de Dios - Lima
+IMECON
+Banco Cencosud
+Asica Farms
+Pesquera Centinela
+Oltursa - Transporte y Carga
+Mapfre Peru
+Petramás S.A.C
+Lari Contratistas
+Municipalidad de Jesús María
+Tecno Fast Perú
+Somos ImpulsA365
+OTASS Perú
+Grupo Vallenorte
+Movil Bus
+AJANI
+Hospital de Emergencias Villa El Salvador
+CHINA GEZHOUBA GROUP COMPANY PERÚ
+Factotal Perú
+Dohwa Engineering Co., Ltd. LATAM
+Procesos de Medios de Pago S.A.
+CONCYSSA S.A.
+CONCREMAX
+EOM GRUPO
+Municipalidad Provincial de Piura
+Peruvian Airlines
+CARTAVIO S.A.A.
+Inkia Energy
+Gobierno Regional Piura
+Hospital Regional de Ica
+CCECC PERU
+Freyssinet Geoquest Perú S.A.C.
+Esmeralda Corp SAC
+FINANCIERA QAPAQ S.A.
+Clínica San Gabriel
+TOTAL Servicios Financieros
+Coopac KORI
+Gobierno Regional de Arequipa
+Urbano Perú
+Electro Sur Este SAA
+YOFC Perú
+IMCO Servicios S.A.C.
+Caja Cencosud Scotiabank
+Olva Courier
+Transaltisa S.A.
+Clínica Javier Prado
+Chimu Agropecuaria S.A.
+Gobierno Regional De Ancash Sede Central
+SIMA PERÚ
+OBRAINSA
+Clínica Good Hope
+Ovosur
+FINANCIERA CREDINKA
+Grupo Peru Alfa
+WOW Perú
+Financiera ProEmpresa
+Pamolsa - Carvajal Empaques PE
+Huevos La Calera
+Equifax Perú
+Sinohydro Corporation Limited Sucursal del Perú
+SERVICIOS PETROLEROS Y CONSTRUCCIONES SEPCON S.A.C.
+Grupo TDM
+Menorca Inversiones
+Auto Taxi Satelital
+Enel Perú
+Grupo Palmas
+PNSR - Programa Nacional de Saneamiento Rural
+Fiberlux
+Rintisa
+IVC CONTRATISTAS GENERALES S.A.
+Ajinomoto del Perú S.A.
+Municipalidad de Lima
+Lima Expresa
+YURA S.A.
+Grupo Santa Elena
+Machu Picchu Foods
+Clínica Anglo Americana
+Electro Oriente
+SANNA salud
+Nextel del Perú S.A.
+AUSTRAL GROUP S.A.A.
+Gobierno Regional del Callao
+Municipalidad de Ventanilla
+Provias Descentralizado
+SACYR PERÚ
+VISIVA
+Viru Group
+HAUG S.A.
+Caja Metropolitana de Lima
+Perufarma S.A.
+Municipalidad Metropolitana de Lima
+Pesquera Diamante
+Financiera Oh!
+OHLA PERÚ
+LOS ANDES
+Hospital de la Solidaridad
+TRUPAL
+INEI- Instituto Nacional de Estadística e Informática
+Instituto Nacional de Salud del Niño San Borja
+Sharf
+Caja Maynas
+Compañía Nacional de Chocolates de Perú - Grupo Nutresa
+Bancom Perú
+Bitel Perú
+Clínica Ricardo Palma
+PANDERO S.A. EAFC
+UNACEM
+Clinica San Felipe S.A.
+izipay
+AFP Integra
+Defensoría del Pueblo
+Jurado Nacional de Elecciones
+Banco Falabella Perú
+Industrias San Miguel
+Movistar Empresas Perú
+Indecopi Oficial
+PeruRail
+Mota-Engil Perú S.A.
+Cobra Perú
+Hospital María Auxiliadora
+Credicorp
+Talma Servicios Aeroportuarios S.A.
+Cementos Pacasmayo SAA
+Prima AFP
+Backus
+Municipalidad Distrital de Echarati
+Municipalidad de Miraflores
+Luz del Sur
+Cruz del Sur
+San Fernando
+CORPAC S.A.
+GRUPO DISTRILUZ
+Caja Ica
+GyM | Grupo Graña y Montero
+La Positiva Seguros
+Clínica Internacional
+BanBif - Banco Interamericano de Finanzas
+COSAPI
+CONGRESO DE LA REPUBLICA DEL PERU
+Banco Central de Reserva del Perú - BCRP
+OSINERGMIN
+Banco Ripley Perú
+Mibanco, banco de la Microempresa
+JJC Contratistas Generales S.A.
+Ministerio de Cultura del Perú
+Alicorp
+Registro Nacional de Identificación y Estado Civil - RENIEC
+Claro Perú
+Banco Pichincha Perú
+TASA
+Arca Continental Lindley
+Caja Arequipa
+Rimac Seguros y Reaseguros
+BBVA en Perú
+Interbank
+Banco de Crédito BCP
+Pacífico Seguros
+EsSalud
 """
 
     # Lista de empresas

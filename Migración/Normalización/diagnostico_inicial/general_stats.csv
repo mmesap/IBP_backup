@@ -1,0 +1,7 @@
+metric,value
+input_file,/Users/elizabethmesa/ibp/Data/Base global/GlobalDataUpdated-30-3-2026.xlsx
+output_dir,/Users/elizabethmesa/ibp/Migración/Normalización/Scripts/diagnostico_inicial
+sheet_used,Primera hoja
+total_rows,51687
+total_columns,28
+empty_rows,0

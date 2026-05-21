@@ -1,0 +1,141 @@
+dimension,value,count
+country,México,16316
+country,Colombia,10567
+country,Chile,3917
+country,Argentina,3660
+country,Perú,2391
+country,Ecuador,2074
+country,Estados Unidos,1633
+country,Costa Rica,1274
+country,Mexico,1082
+country,Puerto Rico,1082
+country,República Dominicana,973
+country,MÉXICO,926
+country,Brasil,872
+country,Guatemala,725
+country,COLOMBIA,543
+country,El Salvador,433
+country,Panamá,432
+country,méxico,390
+country,Honduras,338
+country,Paraguay,288
+city,Bogotá,2647
+city,Bogota,2427
+city,CDMX,1848
+city,Santiago,1803
+city,Buenos Aires,1563
+city,Lima,1315
+city,Santo Domingo,944
+city,Medellin,834
+city,Quito,830
+city,Monterrey,672
+city,Miguel Hidalgo,595
+city,Cali,563
+city,Ciudad de México,562
+city,Guayaquil,522
+city,San Juan,506
+city,Guadalajara,456
+city,San José,450
+city,Cdmx,441
+city,São Paulo,376
+city,San Jose,353
+industry,Banca,2124
+industry,Servicios financieros,1520
+industry,Financial Services,1401
+industry,Seguros,1370
+industry,Servicios Financieros,1289
+industry,Servicios y consultoría de TI,1254
+industry,Telecomunicaciones,1032
+industry,Enseñanza superior,982
+industry,Comercio al por menor,970
+industry,Retail,962
+industry,Desarrollo de software,924
+industry,Servicios De Ti Y Consultoría De Ti,861
+industry,Construcción,740
+industry,Fabricación de vehículos de motor,714
+industry,Industria manufacturera,625
+industry,Fabricación de productos farmacéuticos,587
+industry,Agricultura,574
+industry,Servicios de alimentos y bebidas,495
+industry,Petróleo y gas,467
+industry,Fabricación de alimentos y bebidas,462
+sector,Manufactura e Industria,6136
+sector,Servicios Financieros,3228
+sector,Comercio (equivales a retail y consumo masivo),2838
+sector,Telco y Tecnología,2638
+sector,Educación,1538
+sector,Energía y Recursos Naturales,1090
+sector,Medios y Entretenimiento,851
+sector,Transporte y Logística,816
+sector,Gobierno y Sector Público,644
+sector,Salud,578
+sector,Comercio (Retail y Consumo Masivo),343
+sector,Tecnología,340
+sector,Servicios Profesionales y Empresariales,226
+sector,Construcción e Inmobiliario,162
+sector,Alimentos,132
+sector,Servicios financieros,126
+sector,Telco,112
+sector,Programas de gestión educativa,96
+sector,Telco y Teclogía,88
+sector,Farmacéutica,84
+management_level,Gerente,20383
+management_level,Director,12441
+management_level,C-Level,4822
+management_level,Jefe,4317
+management_level,Coordinador,1772
+management_level,Head,1033
+management_level,Vp,934
+management_level,C-level,810
+management_level,Lider,749
+management_level,Entry,426
+management_level,Admin,366
+management_level,Founder,304
+management_level,Senior,192
+management_level,Partner,168
+management_level,Owner,140
+management_level,Chairman,113
+management_level,Clevel,97
+management_level,VP,88
+management_level,Charmain,31
+management_level,Gerencia,29
+area,Tecnología,17875
+area,Dirección General,7862
+area,Operaciones,5186
+area,Finanzas,4069
+area,Comercial / Ventas,3355
+area,Marketing,2090
+area,Recursos Humanos,1732
+area,Tecnologia,829
+area,Innovación,651
+area,Ciber Seguridad,573
+area,Ventas,374
+area,Compras,335
+area,Administrativa,315
+area,Teclogía,215
+area,Business Intelligence,172
+area,Direccion General,170
+area,Servicio al cliente,105
+area,Desarrollo,104
+area,Comercial Ventas,36
+area,Producto,29
+campaign,MORRIS & OPPAZO,2718
+campaign,NEXSYS AZURE,1526
+campaign,Nexsys Azure,824
+campaign,Nexsys Seguridad,656
+campaign,PROACTIVA MX,628
+campaign,My App,625
+campaign,Cloudhesive,624
+campaign,MADATA,559
+campaign,TD-Synnex LM,557
+campaign,EPIUSE,534
+campaign,Liferay SBM,525
+campaign,SAP MX,439
+campaign,Minsait,431
+campaign,Morris fase ll,431
+campaign,Infobip,374
+campaign,Inmotion,361
+campaign,GTG,314
+campaign,LIFERAY,304
+campaign,Maribel Bonilla,292
+campaign,ZEBRA,283

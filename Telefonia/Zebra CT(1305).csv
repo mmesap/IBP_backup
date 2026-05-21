@@ -1,0 +1,481 @@
+name,phone,email,email2,title,company,address,city,state,zip,country,usc,website,campana
+Oscar Scarpari,+5491137591899,jverdeguer@techint.com.pe,oscarpari@techint.com,Chief Executive Officer,Techint Group,,Buenos Aires,,,AR,Construccion,http://www.techint.com,Zebra
+Ricardo Casabene,+542374871383,,ricardocasabene@hotmail.com,Director de Operaciones Area Sur,Techint Group,,Buenos Aires,,,AR,Construccion,http://www.techint.com,Zebra
+Marcelo Helmich,+5491132334242,marcelo_helmich@carrefour.com,,Director Operaciones Logisticas y Transporte,Carrefour Argentina,,Buenos Aires,,,AR,Comercio al por menor de comestibles,http://www.carrefour.com.ar,Zebra
+Mariano Wegier,+5491173683225,mariano_wegier@carrefour.com,,Jefe de Innovacion Abierta,Carrefour Argentina,,Buenos Aires,,,AR,Comercio al por menor de comestibles,http://www.carrefour.com.ar,Zebra
+Sebastian Sinopoli,+5491198121712,,sinopoli.seba@gmail.com,Gerente general,Grido,,Cordoba,,,AR,Alimentacion y bebidas,http://www.gridohelado.com,Zebra
+Gabriel Casaballe Cosse,+543514971600,gridogastronomicotuc@gmail.com,,Jefe de operaciones,Grido,,Cordoba,,,AR,Alimentacion y bebidas,http://www.gridohelado.com,Zebra
+Marcelo Paez,+5491152261637,,marcelo.paez78@gmail.com,Jefe de operaciones,Musimundo,,Santa Fe,,,AR,Comercio al por menor,http://www.musimundo.com/,Zebra
+ALEJANDRO CHABAN,+5491125343218,contacto@musimundo.com,,Gerente general,Musimundo,,Santa Fe,,,AR,Comercio al por menor,http://www.musimundo.com/,Zebra
+Carlos Baldassarre,+5491168737111,carlos@bidcom.com.ar,,COO,Bidcom,,Buenos Aires,,,AR,Comercio al por menor,http://www.bidcom.com.ar/,Zebra
+Juan Pablo Nunez Losada,+5491160532121,juanpablo@bidcom.com.ar,,Director ejecutivo,Bidcom,,Buenos Aires,,,AR,Comercio al por menor,http://www.bidcom.com.ar/,Zebra
+Aldo Grilli,+5491160230434,agrilli@tuteurgroup.com,,Gerente IT,Laboratorio Tuteur,,Buenos Aires,,,AR,Fabricacion de productos farmaceuticos,http://www.tuteurgroup.com,Zebra
+Fernando Taraciuk,+5491157426395,ftaraciuk@tuteur.com.ar,ftaraciuk@tuteurgroup.com,Director Regional,Laboratorio Tuteur,,Buenos Aires,,,AR,Fabricacion de productos farmaceuticos,http://www.tuteurgroup.com,Zebra
+Marcelo Lorenzo,+5491124547656,mlorenzo@farmaplus.com.ar,,Chief Information Officer,FarmaPlus,,Buenos Aires,,,AR,Comercio al por menor,https://www.farmaplus.com.ar/,Zebra
+Carlos Fraga,+5493521453975,cfraga@farmaplus.com.ar,fraga_carlos@outlook.com,Gerente de logistica,FarmaPlus,,Buenos Aires,,,AR,Comercio al por menor,https://www.farmaplus.com.ar/,Zebra
+Juan Carlos Cacciavillani,+5492614609749,carlos_cacciavillani@impsa.com,juancarlos.cacciavillani@impsa.com,Director de Tecnologia,IMPSA,,Mendoza,,,AR,Fabricacion de semiconductores de energias renovables,http://www.impsa.com,Zebra
+Horacio Carlos Lucero,+5491141939353:+5492616175176,horacio.lucero@impsa.com,,CEO,IMPSA,,Mendoza,,,AR,Fabricacion de semiconductores de energias renovables,http://www.impsa.com,Zebra
+Maria Fabiana Gonzalez,+5491165569995,fabiana.gonzalez@corven.com.ar,,Gerente de TI,Grupo Corven,,Buenos Aires,,,AR,Fabricacion de vehiculos de motor,https://corven.com.ar/,Zebra
+Manuel Trigas,+5491165855258,manuel.trigas@corven.com.ar,,Director Ejecutivo,Grupo Corven,,Buenos Aires,,,AR,Fabricacion de vehiculos de motor,https://corven.com.ar/,Zebra
+Sergio Casina,+5491160411791,scasina@cheeky.com.ar,,Gerente General,Cheeky & Como quieres,,Buenos Aires,,,AR,Comercio al por menor de prendas de vestir y moda,http://www.cheeky.com.ar,Zebra
+Favio Lionel Alonso,+5491168732176,falonso@cheeky.com.ar,,Gerente de Sistemas y Tecnologia (Cheeky),Cheeky & Como quieres,,Buenos Aires,,,AR,Comercio al por menor de prendas de vestir y moda,http://www.cheeky.com.ar,Zebra
+gerardo garcea breme,+5491144117515:+5491150547654,,garceabreme@gmail.com,director,Mimo & Co,,Buenos Aires,,,AR,Comercio al por menor de prendas de vestir y moda,http://mimo.com.ar,Zebra
+Marcelo Pujadas,+5491138469105,mpujadas@mimo.com.ar,,Gerente de Logistica y Distribucion,Mimo & Co,,Buenos Aires,,,AR,Comercio al por menor de prendas de vestir y moda,http://mimo.com.ar,Zebra
+Raul Alvarez,+5493518167471,raul.alvarez@wiener-lab.com,ralvarez@wiener-lab.com.ar,Gerente de Operaciones,Wiener lab.,,Santa Fe,,,AR,Fabricacion de equipo medico,http://www.wiener-lab.com,Zebra
+Mario Ruben Panella,+5493415026953,mpanella@wiener-lab.com,mario.panella@wiener-lab.com,Director,Wiener lab.,,Santa Fe,,,AR,Fabricacion de equipo medico,http://www.wiener-lab.com,Zebra
+Manuel Suarez Altuna,+5491140483768,msuarez@sanmiguelglobal.com,,Chief Executive Officer,San Miguel Global,,Buenos Aires,,,AR,Produccion alimentaria,https://sanmiguelglobal.com,Zebra
+Marcelo Mousseigne,+5491144967665,mmousseigne@sanmiguelglobal.com,,Global CIO,San Miguel Global,,Buenos Aires,,,AR,Produccion alimentaria,https://sanmiguelglobal.com,Zebra
+Gaston Garcia,+5491131570059,gaston.garcia@pintureriasrex.com,gaston.garcia@somosrex.com,Director de TI & Talento,Rex,,Buenos Aires,,,AR,Comercio al por menor,http://www.somosrex.com,Zebra
+Carlos Alberto Ortiz,+5491151313377,consultas@somosrex.com,,Gerente de Operaciones,Rex,,Buenos Aires,,,AR,Comercio al por menor,http://www.somosrex.com,Zebra
+Luis Lopez,+5491136926704,,luis.lopez.it@gmail.com,IT Manager,Honda Motor de Argentina,,Buenos Aires,,,AR,Fabricacion de vehiculos de motor,http://honda.com.ar,Zebra
+Diego C Mendes,+5491144107227,c@honda.com.ar,,Gerente de Planeamiento y Logistica,Honda Motor de Argentina,,Buenos Aires,,,AR,Fabricacion de vehiculos de motor,http://honda.com.ar,Zebra
+Sergio Parcheiczuk,+5491162854966,sparcheiczuk@biomas.net,,Gerente de Ingenieria y Mantenimiento,Biomas S.A.,,Buenos Aires,,,AR,Fabricacion de productos farmaceuticos,http://www.biomas.net,Zebra
+Verona Pugliese,+5491137012695,vpugliese@biomas.net,,Performance Logistic Director,Biomas S.A.,,Buenos Aires,,,AR,Fabricacion de productos farmaceuticos,http://www.biomas.net,Zebra
+Jorge Soto Acebal,+5491157416835,sotojorge@perfumeriaspigmento.com.ar,,Director de operaciones,Perfumerias Pigmento,,Buenos Aires,,,AR,Fabricacion de productos de cuidado personal,https://www.perfumeriaspigmento.com.ar/,Zebra
+Ciro Munoz,+5491169267009,m-c@perfumeriaspigmento.com.ar,ciromunoz@perfugroup.com.ar,Director Ejecutivo,Perfumerias Pigmento,,Buenos Aires,,,AR,Fabricacion de productos de cuidado personal,https://www.perfumeriaspigmento.com.ar/,Zebra
+Gabriel Sebastian Pintos,+5491137016248,,gabrielsebastianpintos@hotmail.com,VP COO,Grupo Libertad,,Cordoba,,,AR,Comercio al por menor,https://grupolibertad.com.ar/,Zebra
+Daniela Pereyra,+5493513088724,dpereyra@libertadsa.com.ar,,Gerente de RR. HH.,Grupo Libertad,,Cordoba,,,AR,Comercio al por menor,https://grupolibertad.com.ar/,Zebra
+Hector Traverso,+5493442647793,htraverso@gta.com.ar,hectortraverso@gmail.com,Gerente de sistemas,Granja Tres Arroyos S.A.C.A.F.e I.,,Buenos Aires,,,AR,Alimentacion y bebidas,https://www.grupogta.com.ar,Zebra
+Raul Regis,+5491144146810:+5491144192037,rregis@gta.com.ar,,gerente de operaciones y negocios,Granja Tres Arroyos S.A.C.A.F.e I.,,Buenos Aires,,,AR,Alimentacion y bebidas,https://www.grupogta.com.ar,Zebra
+Daniel D.,+5491131881105,dsalvio@sinteplast.com.ar,,Gerente Regional de Sistemas SAP & Tecnologia,Sinteplast,,Buenos Aires,,,AR,Fabricacion de pinturas,http://www.sinteplast.com.ar,Zebra
+Miguel A. Rodriguez,+5491144184636,mrodriguez@sinteplast.com.ar,,Director de Operaciones,Sinteplast,,Buenos Aires,,,AR,Fabricacion de pinturas,http://www.sinteplast.com.ar,Zebra
+Guillermo Muller,+5493436204251,gmuller@arcor.com,,Gerente general,Cartocor - Grupo Arcor,,Buenos Aires,,,AR,Fabricacion de envases y embalajes,https://www.arcor.com/ar/nuestros-negocios-packaging,Zebra
+Javier Demaria Fessia,+5493434600309,,javierdf9@yahoo.com.ar,Gte. Innovacion Sustentabilidad y Nuevos Negocios,Cartocor - Grupo Arcor,,Buenos Aires,,,AR,Fabricacion de envases y embalajes,https://www.arcor.com/ar/nuestros-negocios-packaging,Zebra
+Javier de la Arena,+5491149366318,jdelaarena@violettacosmeticos.com.ar,,Gerente General,Violetta Cosmeticos,,Buenos Aires,,,AR,Fabricacion de productos de cuidado personal,http://www.violettacosmeticos.com,Zebra
+Leonardo Satera,+5491141662194,lsatera@violettacosmeticos.com.ar,,Director de Informatica e Innovacion Digital,Violetta Cosmeticos,,Buenos Aires,,,AR,Fabricacion de productos de cuidado personal,http://www.violettacosmeticos.com,Zebra
+Javier David Castro,+5498102226253,javier.castro@naldo.com.ar,,GERENTE NALDO SAN JUAN,Naldo,,Buenos Aires,,,AR,Comercio al por menor,http://www.naldo.com.ar,Zebra
+Jorge Broqua,+5492364439000,jorge.broqua@naldo.com.ar,,Information Technology System Manager,Naldo,,Buenos Aires,,,AR,Comercio al por menor,http://www.naldo.com.ar,Zebra
+Paula Fernanda Firman,+5491144197924,infoar@isadoraonline.com,,Gerente de sucursal,Isadora,,Buenos Aires,,,AR,Industria textil y moda,http://ar.isadoraonline.com/,Zebra
+Hector Jacquet,+5498003333443,hjacquet@cooperativaobrera.coop,,Gerente general,Cooperativa Obrera,,Buenos Aires,,,AR,Comercio al por menor de comestibles,https://www.cooperativaobrera.coop/,Zebra
+Hernan Valdes,+5492915741864,hvaldes@cooperativaobrera.coop,,Jefe de proyectos logisticos,Cooperativa Obrera,,Buenos Aires,,,AR,Comercio al por menor de comestibles,https://www.cooperativaobrera.coop/,Zebra
+Mauro Schettino,+5491140266411,m.schettino@essenla.com,,Jefe de IT,Essen,,Buenos Aires,,,AR,Industria manufacturera,http://www.essenla.com,Zebra
+Matias Roberto Rivero,+5491126858449,m.roberto@essenla.com,,Director industrial,Essen,,Buenos Aires,,,AR,Industria manufacturera,http://www.essenla.com,Zebra
+Roberto Eduardo Devoto,+5491144721823,roberto.devoto@easy.com.ar,,CEO,Easy Argentina Cencosud,,Buenos Aires,,,AR,Comercio al por menor,http://www.easy.com.ar,Zebra
+Adrian Eugenio Bianchi,+5491156964351,adrian.bianchi@easy.com.ar,,Gerente de Operaciones Logistica,Easy Argentina Cencosud,,Buenos Aires,,,AR,Comercio al por menor,http://www.easy.com.ar,Zebra
+Juan Angel Rodriguez,+5492614195447,rodriguezj@fecovita.com,,Director general,FECOVITA,,Mendoza,,,AR,Vinos y licores,http://www.fecovita.com,Zebra
+Tomas Pujal,+5492616800007,pujalt@fecovita.com,,Gerente de operaciones,FECOVITA,,Mendoza,,,AR,Vinos y licores,http://www.fecovita.com,Zebra
+Daniel Millan,+5491150204217,danielmillan@millanel.com.ar,danielmillan@millanel.com,Gerente General,Millanel Cosmetica,,Buenos Aires,,,AR,Cosmetica,http://www.millanel.com,Zebra
+JUAN JOSE REINA,+5491121571214,juanreina@millanel.com,,Logistics Manager,Millanel Cosmetica,,Buenos Aires,,,AR,Cosmetica,http://www.millanel.com,Zebra
+Facundo Saltarelli,+5491137822576,fsaltarelli@carone.com.ar,,CIO & CTO,Car One,,Buenos Aires,,,AR,Comercio al por menor,http://www.carone.com.ar,Zebra
+Ruben Jara Ibaceta,+5491137056894,rjara@carone.com.ar,,Gerente general,Car One,,Buenos Aires,,,AR,Comercio al por menor,http://www.carone.com.ar,Zebra
+Monica Lattarulo,+5491140381179,monicalattarulo@montagne.com.ar,,Gerente General,Montagne,,Buenos Aires,,,AR,Industria textil y moda,https://www.montagne.com.ar/?utm_source=linkedln&utm_medium=social,Zebra
+Gabriela Coto,+5491140553641,gabrielacoto@montagne.com.ar,,Project Manager de IT,Montagne,,Buenos Aires,,,AR,Industria textil y moda,https://www.montagne.com.ar/?utm_source=linkedln&utm_medium=social,Zebra
+Hernan Grimoldi,+5491140086400,hgrimoldi@grimoldi.com,,Director,Grimoldi S.A.,,Buenos Aires,,,AR,Comercio al por menor de prendas de vestir y moda,http://www.grimoldi.com,Zebra
+Federico Caminos,+5491166218043:+5491123076783,fcaminos@grimoldi.com,,Jefe de operaciones,Grimoldi S.A.,,Buenos Aires,,,AR,Comercio al por menor de prendas de vestir y moda,http://www.grimoldi.com,Zebra
+Florencia Lovesio,+5493415036002,flovesio@grupoorono.com.ar,,Gerencia General,Grupo Orono,,Rosario,,,AR,Fabricacion de equipo medico,http://www.grupoorono.com.ar/,Zebra
+Ing. Roberto Villavicencio Boretti,+5493416524194,ivillavicencio@grupoorono.com.ar,,Gerente de operaciones,Grupo Orono,,Rosario,,,AR,Fabricacion de equipo medico,http://www.grupoorono.com.ar/,Zebra
+Guillermo Corroza,+5491147331400,guillermo.corroza@jumbo.com.ar,,Gerente Operativo,Jumbo Retail Argentina,,Buenos Aires,,,AR,Comercio al por menor de comestibles,http://www.jumbo.com.ar,Zebra
+Luis Aguiar,+5491141540961,a.l@jumbo.com.ar,,Gerente,Jumbo Retail Argentina,,Buenos Aires,,,AR,Comercio al por menor de comestibles,http://www.jumbo.com.ar,Zebra
+Sol Sterman Tentori,+5491155891690,solsterman@kevingston.com,,Executive Director,Kevingston,,Buenos Aires,,,AR,Industria textil y moda Buenos Aires,http://www.kevingston.com/AR/,Zebra
+Alejandro Caro Cerri.,+5491131510650,alejandroc@kevingston.com,,Gerente de Tecnologia y Transformacion Digital,Kevingston,,Buenos Aires,,,AR,Industria textil y moda Buenos Aires,http://www.kevingston.com/AR/,Zebra
+Gisele Beyot,+5491135952248,gisele.beyot@autocity.com.ar,,Gerente General de Operaciones,Autocity,,Cordoba,,,AR,Comercio al por menor,https://autocity.com.ar/,Zebra
+Ignacio Vasquez Pereyra,+5493513032529,ignacio.vasquez@autocity.com.ar,,Director,Autocity,,Cordoba,,,AR,Comercio al por menor,https://autocity.com.ar/,Zebra
+Carlos Mendez,+5491128219348,,seba.acade@gmail.com,gerente general,FIAT Argentina,,Buenos Aires,,,AR,Fabricacion de vehiculos de motor,https://www.fiat.com.ar,Zebra
+Gabriel E. Martinez Zubiaurre,+5491154169319,,gabrielmz1707@gmail.com,Gerente de Tecnologia y Sistemas,Rafaela Alimentos S.A.,,Santa Fe,,,AR,Produccion alimentaria,http://rafaelaalimentos.com/,Zebra
+Juan Lagrutta,+5491147751744:+5491150109236,juanlagrutta@rafalim.com,,Gerente General,Rafaela Alimentos S.A.,,Santa Fe,,,AR,Produccion alimentaria,http://rafaelaalimentos.com/,Zebra
+Sandra Gabriel de Rios,+5491158752991,sandrarios@gigot.com.ar,,Gerente general,GIGOT Cosmeticos,,Buenos Aires,,,AR,Fabricacion de productos de cuidado personal,http://www.gigot.com.ar,Zebra
+Carlos La Loggia,+5491136955848,cla@gigot.com.ar,,Gerente de Operaciones,GIGOT Cosmeticos,,Buenos Aires,,,AR,Fabricacion de productos de cuidado personal,http://www.gigot.com.ar,Zebra
+Cristian Damian Inverardi,+5491121562074,cinverardi@grupodinosaurio.com,,Director de Operaciones,Grupo Dinosaurio,,Cordoba,,,AR,Comercio al por menor de comestibles,https://grupodinosaurio.com/,Zebra
+Marcelo J. Urriche,+5493516466622,murriche@grupodinosaurio.com,,Gerente de Tecnologia,Grupo Dinosaurio,,Cordoba,,,AR,Comercio al por menor de comestibles,https://grupodinosaurio.com/,Zebra
+Daniel Virzi,+5491145645140,daniel.virzi@quickfood.com.ar,,Gerente Sistemas,Quickfood SA - Marfrig Group,,Buenos Aires,,,AR,Produccion alimentaria,http://www.quickfood.com.ar,Zebra
+Sebastian Armando,+5491154321800,sebastian.armando@quickfood.com.ar,,Gerente de Ingenieria Industrial,Quickfood SA - Marfrig Group,,Buenos Aires,,,AR,Produccion alimentaria,http://www.quickfood.com.ar,Zebra
+Alejandro Alcedo,+5491161730256,alejandroalcedo@grisino.com,,Gerente General,Grupo CRESKOTEC | Grisino y Broer,,Buenos Aires,,,AR,Comercio al por menor de prendas de vestir y moda,http://www.grisino.com,Zebra
+Christian Andres Garcia,+5491154864321,christiangarcia@grisino.com,,Gerente de Transformacion Digital e Infraestructura,Grupo CRESKOTEC | Grisino y Broer,,Buenos Aires,,,AR,Comercio al por menor de prendas de vestir y moda,http://www.grisino.com,Zebra
+Juan Pablo Mansilla,+5491130128866,jmansilla@sportline.com.ar,,Director de tecnologia,Sportline,,Buenos Aires,,,AR,Comercio al por menor de prendas de vestir y moda,http://www.sportline.com.ar,Zebra
+Mauro Massachesi,+5491150750460,,mauromassachesi@hotmail.com,Gerente General,Sportline,,Buenos Aires,,,AR,Comercio al por menor de prendas de vestir y moda,http://www.sportline.com.ar,Zebra
+Isaac Lapidus,+5491147246700,llapidus@cladd.com.ar,,Director ejecutivo,Cladd I.T.A. S.A. (Grupo Textil),,Buenos Aires,,,AR,Comercio al por menor de prendas de vestir y moda,http://www.cladd.com.ar,Zebra
+Fernando Spena,+5491161081497,fspena@cladd.com.ar,,Gerente de IT,Cladd I.T.A. S.A. (Grupo Textil),,Buenos Aires,,,AR,Comercio al por menor de prendas de vestir y moda,http://www.cladd.com.ar,Zebra
+Pia Bianciotto,+5491156268315,pbianciotto@tsucosmeticos.com.ar,,Gerente de Sistemas,Tsu Cosmeticos,,San Martin,,,AR,Fabricacion de productos de cuidado personal,https://www.tsucosmeticos.com.ar/,Zebra
+Damian Puerto,+5491157044715,p-d@bagues.net,damianpuerto@bagues.com.ar,Director General Argentina,Bagues,,Buenos Aires,,,AR,Fabricacion de productos de cuidado personal,http://www.bagues.net,Zebra
+Martin Ares,+5492954553469,a-m@bagues.net,martinares@bagues.com.ar,Gerente de Operaciones,Bagues,,Buenos Aires,,,AR,Fabricacion de productos de cuidado personal,http://www.bagues.net,Zebra
+Hugo Sebastian Novosad,+5493416365207:+5493413152777,hsnovosad@rafasa.com,,Presidente,RAFA SA,,Buenos Aires,,,AR,Fabricacion de maquinaria industrial,https://www.rafasa.com/es,Zebra
+Ezequiel Rios Guzzetti,+5493415799169,,rios_ezequiel.rc@hotmail.com,Director de proyecto,RAFA SA,,Buenos Aires,,,AR,Fabricacion de maquinaria industrial,https://www.rafasa.com/es,Zebra
+Jorge Enrique Viturro,+5491147540740,jviturro@escorial.com.ar,,Gerente General,Escorial,,Buenos Aires,,,AR,Industria manufacturera,https://escorial.com.ar/,Zebra
+Franco Tapella,+5491147541122,ftapella@escorial.com.ar,,Director de operaciones y proyectos,Escorial,,Buenos Aires,,,AR,Industria manufacturera,https://escorial.com.ar/,Zebra
+Leonela Hipperdinger,+5491126577000,lhipperdinger@tostadocafeclub.com,,Gerente de operaciones,Tostado,,Buenos Aires,,,AR,Alimentacion y bebidas,http://www.tostadocafeclub.com,Zebra
+Elton Alvarez,+5491555766084,ealvarez@tostadocafeclub.com,,Gerente General,Tostado,,Buenos Aires,,,AR,Alimentacion y bebidas,http://www.tostadocafeclub.com,Zebra
+Jacques Mizrahi,+5491160521550,jm@swissjust.net,,CEO,SwissJust Latinoamerica SA,,Buenos Aires,,,AR,Servicios de bienestar y mantenimiento fisico,http://swissjustamerica.com/,Zebra
+Fernando De Piero,+5491125132500,,fernando.depiero@gmail.com,Gerente de Operaciones,SwissJust Latinoamerica SA,,Buenos Aires,,,AR,Servicios de bienestar y mantenimiento fisico,http://swissjustamerica.com/,Zebra
+Gustavo Miloch,+548103456464,gmiloch@ribeiro.com.ar,,Gerente,Ribeiro,,Buenos Aires,,,AR,Comercio al por menor,http://www.ribeiro.com.ar,Zebra
+Ricardo Artieda,+5492994948095,rartieda@ribeiro.com.ar,,Jefe de operaciones,Ribeiro,,Buenos Aires,,,AR,Comercio al por menor,http://www.ribeiro.com.ar,Zebra
+Alejandro Cruzado,+542236850460,acruzado@opensports.com.ar,,Gerente TI,Grupo Open Sports,,Buenos Aires,,,AR,Comercio al por menor,http://www.opensports.com.ar,Zebra
+Let Collauto,+5498009998638,lcollauto@opensports.com.ar,,Gerente general,Grupo Open Sports,,Buenos Aires,,,AR,Comercio al por menor,http://www.opensports.com.ar,Zebra
+Javier Labourt,+543327485007,jlabourt@juanabonita.com,,Gerente general,Juana Bonita,,Buenos Aires,,,AR,Comercio al por menor de prendas de vestir y moda,http://www.juanabonita.com/,Zebra
+Rocio Medina,+543327443600,rmedina@juanabonita.com,,Jefe de operaciones de logistica,Juana Bonita,,Buenos Aires,,,AR,Comercio al por menor de prendas de vestir y moda,http://www.juanabonita.com/,Zebra
+Nerea Flores,+543518379392,,nerea042718@gmail.com,Gerente general,Sabores Express,,Buenos Aires,,,AR,Comercio al por menor de alimentos y bebidas,https://www.saboresexpress.com.ar/,Zebra
+Matias Ezequiel Casut Frijon,+543321838291,,casutmatias@gmail.com,Gerente General de Operaciones,Sabores Express,,Buenos Aires,,,AR,Comercio al por menor de alimentos y bebidas,https://www.saboresexpress.com.ar/,Zebra
+Juan Gimenez,+541132202888,juan@ventas-privadas.com,juanramongime@gmail.com,DIRECTOR,Ventas Privadas,,Buenos Aires,,,AR,Comercio al por menor,http://www.ventas-privadas.com,Zebra
+Gustavo Elkin,+543516184639:+543514338191,gustavo.elkin@cba.gov.ar,gustavo_elkin@hotmail.com,Director de sistemas,Gobierno de la provincia de cordoba,,Cordoba,,,AR,Administracion gubernamental,http://www.cba.gov.ar,Zebra
+Pablo Ricci,+543515595669,pablo.ricci@cba.gov.ar,,Subdirector Area Operaciones,Gobierno de la provincia de cordoba,,Cordoba,,,AR,Administracion gubernamental,http://www.cba.gov.ar,Zebra
+Carlos Drudi,+5493512116274:+543512116274,carlos@packingcba.com.ar,,Presidente,Packing,,Cordoba,,,AR,Fabricacion de envases y embalajes,http://www.packing.com.ar/,Zebra
+gerardo petrola,+541164715138,,gerapetrola@hotmail.com,Gerente general,Maxikiosco,,Buenos Aires,,,AR,Comercio al por menor,http://www.maxikioskos.com.ar/,Zebra
+Agustin Maldonado,+5434666666631,,,Gerente general,Supermercado Chino,,Buenos Aires,,,AR,Comercio al por menor de comestibles,No registra,Zebra
+Pablo Galvan,+5493815749962:+543815749962,,,Principal CEO,Grido Helado,,Cordoba,,,AR,Alimentacion y bebidas,http://www.gridohelado.com.uy,Zebra
+Walter Rothstein,+5492364512872:+542364512872,wrothstein@laanonima.com.ar,,Director de operaciones,SAIEP,,Buenos Aires,,,AR,Comercio al por menor,http://www.laanonima.com.ar/,Zebra
+Sergio Cocaro,+541144899100,scocaro@laanonima.com.ar,,Gerente de Desarrollo (Sistemas),SAIEP,,Buenos Aires,,,AR,Comercio al por menor,http://www.laanonima.com.ar/,Zebra
+Patricio Gabilondo Tr Cerrano,+5491134450495,,,gerente,KUCHEN BAZAR,,Buenos Aires,,,AR,Comercio al por menor,http://www.kuchenbazar.com.ar,Zebra
+Hernan H.,+5491143753366,hh@electrocomponentes.com,,IT Manager,Electrocomponentes SA,,Buenos Aires,,,AR,Fabricacion de electrodomesticos y productos electricos y electronicos,http://www.electrocomponentes.com,Zebra
+Veronica Marcelo,+5491168802928:+541168802928,veronicamarcelo@natura.net,,General Manager,NATURA COSMETICOS S.A.,,Buenos Aires,,,AR,Fabricacion de productos de cuidado personal,http://www.natura.com.br,Zebra
+Dario Manni,+541136823165,dariomanni@natura.net,zeuss1980@hotmail.com,Gerente de operaciones y logistica,NATURA COSMETICOS S.A.,,Buenos Aires,,,AR,Fabricacion de productos de cuidado personal,http://www.natura.com.br,Zebra
+Evangelina Arrighini,+548103334002,evangelina.arrighini@adomiciliosalud.com,eva.arrighini@adomicilio-sa.com.ar,Gerente general,A Domicilio Salud,,Buenos Aires,,,AR,Fabricacion de equipo medico,https://adomiciliosalud.com,Zebra
+Martin Ignacio Taliercio,+5493764189556:+5493764144590,,martin.ignacio.taliercio@gmail.com,Gerente,Anyway,,Posadas,,,AR,Electronica de consumo,https://anyway.com.ar,Zebra
+Martin Bussolo,+541153380737,,mbussolo2000@yahoo.com.ar,Gerente Regional Operaciones,Supermercado Dia,,Buenos Aires,,,AR,Comercio al por menor,http://www.diacorporate.com,Zebra
+Gaston Demichelis,+5491140463279:+541140463279,gaston.demichelis@diagroup.com,sebastian.laporte@diagroup.com,Gerente Sr. de Tecnologia,Supermercado Dia,,Buenos Aires,,,AR,Comercio al por menor,http://www.diacorporate.com,Zebra
+Jose Manuel Rodriguez Barbero,+5493564439000,,,Gerente,Barbero,,Buenos Aires,,,AR,Industria manufacturera,http://barbero.com.ar,Zebra
+Franco Alloggio,+5493415114285:+543415114285,franco@nessun.com.ar,,Socio Gerente,Nessun,,Santa Fe,,,AR,Fabricacion de maquinaria industrial,http://www.nessun.com.ar,Zebra
+Tiago Cohen,+5491166015793,,,Gerente general,Panalera,,Buenos Aires,,,AR,Comercio al por mayor,https://p-norte.com.ar/,Zebra
+Jose Luis Fiori,+541137000400,,luchofiori@hotmail.com,Jefe de operaciones,Panalera,,Buenos Aires,,,AR,Comercio al por mayor,https://p-norte.com.ar/,Zebra
+Esteban Laguna,+5491161743206:+541161743206,elaguna@mazalosa.com.ar,restebanlaguna@gmail.com,Gerente de Operaciones,Portsaid- mazalosa SA,,Buenos Aires,,,AR,Comercio al por menor de prendas de vestir y moda,https://www.portsaid.com.ar/,Zebra
+Sergio Said,+541145521389,ssaid@mazalosa.com.ar,,Presidente & CEO,Portsaid,,Buenos Aires,,,AR,Comercio al por menor de prendas de vestir y moda,https://www.portsaid.com.ar/,Zebra
+Sirley Beatriz Gabis,+542214760889,,,Socio gerente,Regaleria,,Buenos Aires,,,AR,Comercio al por menor,https://www.laregaleria.com.ar/,Zebra
+natalia castillo,+5411549926546,,,Gerente general,Cotillon,,Buenos Aires,,,AR,Comercio al por menor,https://cotillonpartyexpres.com.ar/,Zebra
+Ricardo D. Turi,+541145241910,,,Gerente general,Forest Indumentaria,,Buenos Aires,,,AR,Fabricacion de productos textiles,https://www.forestindumentaria.com,Zebra
+miguel alberto de jesus,+541136560587,,,gerente,UNDEFINED,,Buenos Aires,,,AR,Comercio al por menor de prendas de vestir y moda,www.undefinedba.com,Zebra
+Jose Luis Solorzano Hurtado,+56952071252,jsolorzano@koandina.com,,Gerente general,Coca-Cola Andina,,Santiago,,,CL,Alimentacion y bebidas,http://www.koandina.com,Zebra
+Pablo Mira Tolosa,+56972173745,pmira@koandina.com,,Sub Gerente Operaciones y Logistica,Coca-Cola Andina,,Santiago,,,CL,Alimentacion y bebidas,http://www.koandina.com,Zebra
+Sebastian Tagle,+56995388283:+56976598779,sebastian.tagle@soprole.cl,,Gerente general,Soprole,,Santiago,,,CL,Fabricacion de alimentos y bebidas,http://www.soprole.cl,Zebra
+Olivia Pizarro Casner,+56984559775,olivia.pizarro@soprole.cl,,Sub Gerente de Innovacion y Desarrollo,Soprole,,Santiago,,,CL,Fabricacion de alimentos y bebidas,http://www.soprole.cl,Zebra
+Jaime Baraqui,+56978885301,,jaime.baraqui@outlook.cl,Gerente de Tecnologias de la Informacion - CIO,Vina Concha y Toro,,Santiago,,,CL,Fabricacion de bebidas,https://vinacyt.com/,Zebra
+Laura Schilman,+5491159484944:+56947880790,laura.schilman@conchaytoro.cl,lauraschilman@hotmail.com,Director Operaciones & Supply Chain,Vina Concha y Toro,,Santiago,,,CL,Fabricacion de bebidas,https://vinacyt.com/,Zebra
+Oscar Mancisidor Strange,+56988377796,,oscar.mancisidor@gmail.com,CIO,Grupo Komatsu Cummins,,Santiago,,,CL,Fabricacion de maquinaria,https://www.komatsucummins.cl/,Zebra
+Darko Louit Nevistic,+56998180069:+56226557887,darko.louit@kcl.cl,darko.louit@komatsu.cl,CEO,Grupo Komatsu Cummins,,Santiago,,,CL,Fabricacion de maquinaria,https://www.komatsucummins.cl/,Zebra
+Maria Macarena Lopez Maturana,+56966478375:+56984287142,mlopez@salfa.cl,,Sub Gerente Excelencia Operacional,Salfa,,Santiago,,,CL,Fabricacion de maquinaria industrial,http://www.salfa.cl,Zebra
+Daniel Manoli Saquel,+56999695440,daniel_saquel@salfa.cl,,Chief Information Officer,Salfa,,Santiago,,,CL,Fabricacion de maquinaria industrial,http://www.salfa.cl,Zebra
+tatiana Siva,+56961906137,tatiana.siva@colun.cl,,Subgerente Innovacion & Desarrollo,COLUN,,La Union,,,CL,Fabricacion de alimentos y bebidas,http://www.colun.cl,Zebra
+Lionel Mancilla Lausic,+56994296739,lionel.mancilla@colun.cl,lmancilla@colun.cl,Gerente General,COLUN,,La Union,,,CL,Fabricacion de alimentos y bebidas,http://www.colun.cl,Zebra
+Sebastian Jerez Frederick,+56958946729,sebastian.jerez@cruzverde.cl,,Gerente general,Farmacias Cruz Verde Chile,,Santiago,,,CL,Fabricacion de productos farmaceuticos,http://www.cruzverde.cl,Zebra
+Sergio Marschhausen Mena,+56961215195,sergio.marschhausen@cruzverde.cl,,Gerente de Eficiencia Operacional e Inteligencia de Negocios,Farmacias Cruz Verde Chile,,Santiago,,,CL,Fabricacion de productos farmaceuticos,http://www.cruzverde.cl,Zebra
+Sady Delgado,+56998830107,sady.delgado@aquachile.com,,Gerente General,Empresas AquaChile,,Puerto Montt,,,CL,Fabricacion de alimentos y bebidas,http://www.aquachile.com,Zebra
+Adolfo Moreno,+56995531526,adolfo.moreno@aquachile.com,,Gerente de tecnologia,Empresas AquaChile,,Puerto Montt,,,CL,Fabricacion de alimentos y bebidas,http://www.aquachile.com,Zebra
+Eduardo Silva Diaz,+56984488250,eduardo.silva@fashionspark.com,,GERENTE DE LOGISTICA,"""Fashions Park S.A.""",,Santiago,,,CL,Comercio al por menor,http://www.fashionspark.com,Zebra
+Jorge Alfredo Gonzalez Pivalica,+56228557816:+56999980115,jorgegonzalez@fashions.cl,,Director,"""Fashions Park S.A.""",,Santiago,,,CL,Comercio al por menor,http://www.fashionspark.com,Zebra
+Roberto Meza Bastidas,+56942799627,rmeza@lapolar.cl,,Gerente Logistica,Empresas La Polar S.A.,,Santiago,,,CL,Comercio al por menor,http://www.lapolar.cl,Zebra
+Enzo Soto,+56926952650:+56994401384:+56972154206,esoto@lapolar.cl,,Gerente de tecnologias de la informacion,Empresas La Polar S.A.,,Santiago,,,CL,Comercio al por menor,http://www.lapolar.cl,Zebra
+Patricio Marchant,+56956185661,pmarchant@brunofritsch.cl,,Gerente de operaciones,Bruno Fritsch,,Santiago,,,CL,Comercio al por menor de vehiculos de motor,https://www.brunofritsch.cl/,Zebra
+Jose Miguel Castro Gorostiza,+56961089098:+56962484062,miguelgorostiza@brunofritsch.cl,jmcastro@brunofritsch.cl,Gerente Corporativo de Tecnologia e Innovacion,Bruno Fritsch,,Santiago,,,CL,Comercio al por menor de vehiculos de motor,https://www.brunofritsch.cl/,Zebra
+Mauricio Caviglia,+56998214046,mcaviglia@salcobrand.cl,,Gerente general,Salcobrand,,Santiago,,,CL,Farmacias minoristas,http://www.salcobrand.cl,Zebra
+Marcelo Rodriguez Murga,+56964897211,mrodriguez@salcobrand.cl,,Gerente de Operaciones (Preunic),Salcobrand,,Santiago,,,CL,Farmacias minoristas,http://www.salcobrand.cl,Zebra
+Nicolas Donoso,+56964952779:+56223695442,ndonoso@saval.cl,ndonoso@savalcorp.com,Gerente General,Laboratorios SAVAL S.A.,,Santiago,,,CL,Fabricacion de productos farmaceuticos,https://www.savalcorp.com/es/,Zebra
+Patricio Castro Torres,+56944733386,pcastro@savalcorp.com,,Gerente Corporativo de Tecnologia,Laboratorios SAVAL S.A.,,Santiago,,,CL,Fabricacion de productos farmaceuticos,https://www.savalcorp.com/es/,Zebra
+Sebastian Illanes Guerra,+56993196034,sillanes@asmar.cl,,Gerente general,ASMAR,,Valparaiso,,,CL,Construccion naval,http://www.asmar.cl,Zebra
+Luis Kohler,+56322260019:+56979862980,lkohler@asmar.cl,,Gerente Corporativo de Operaciones y Logistica,ASMAR,,Valparaiso,,,CL,Construccion naval,http://www.asmar.cl,Zebra
+Marcello Marchese,+56982349608:+56226797121,mmarchese@gildemeister.cl,,CEO,Gildemeister Chile,,Pudahuel,,,CL,Fabricacion de vehiculos de motor,http://www.gildemeister.cl,Zebra
+Felipe Calderon Pascual,+56964078755:+56951886090,fcalderon@gildemeister.cl,,Chief Information Officer,Gildemeister Chile,,Pudahuel,,,CL,Fabricacion de vehiculos de motor,http://www.gildemeister.cl,Zebra
+Francisco Luis Arrighi,+56992893513:+56957584128,francisco.arrighi@forus.cl,,CEO,Forus S.A.,,Santiago,,,CL,Comercio al por menor,http://www.forus.cl,Zebra
+Gustavo Rivera Luna,+56993276765,grivera@forus.cl,,Chief Information Officer,Forus S.A.,,Santiago,,,CL,Comercio al por menor,http://www.forus.cl,Zebra
+Gonzalo Marambio,+56965876221,gonzalo.marambio@cic.cl,,Gerente general/CEO,CIC,,Santiago,,,CL,Mobiliario,http://www.cic.cl,Zebra
+Patricio Andres Herrera Vinet,+56953675390,pherrera@cic.cl,,Subgerente de operaciones,CIC,,Santiago,,,CL,Mobiliario,http://www.cic.cl,Zebra
+Andres Lyon,+56965863998:+56998866578,alyon@australis-sa.com,,Gerente general,Australis Seafoods,,Puerto Varas,,,CL,Fabricacion de alimentos y bebidas,http://www.australis-seafoods.com,Zebra
+Ignacio Bravo Herreros,+56956476340:+56652566114,ibravo@australis-sa.com,,Gerente Logistica y Operaciones,Australis Seafoods,,Puerto Varas,,,CL,Fabricacion de alimentos y bebidas,http://www.australis-seafoods.com,Zebra
+Miguel Acuna Solivelles,+56652563250,miguel.acuna@cermaq.com,macunasolivelles@gmail.com,Innovation Manager,Cermaq Chile,,Puerto Montt,,,CL,Fabricacion de alimentos y bebidas,http://www.cermaq.cl,Zebra
+Claudio Ojeda,+56652568187:+56982332461,,,Sub Gerente de Operaciones,Cermaq Chile,,Puerto Montt,,,CL,Fabricacion de alimentos y bebidas,http://www.cermaq.cl,Zebra
+Gerardo Balbontin Fox,+56412269400,gerardo.balbontin@blumar.com,gbalfox@gmail.com,Chief Executive Officer,Blumar,,Colon,,,CL,Fabricacion de alimentos y bebidas,https://www.blumar.com/,Zebra
+Marcelo Videla Pena,+56984489614,marcelo.videla@blumar.com,,Gerente de Innovacion y Desarrollo,Blumar,,Colon,,,CL,Fabricacion de alimentos y bebidas,https://www.blumar.com/,Zebra
+Rosario Fernandez Velasco,+56228484539:+56989061570,rfernan@vsptwinegroup.com,rfernan@vspt.cl,Directora de Innovacion y Desarrollo,VSPT Wine Group,,Santiago,,,CL,Vinos y licores,http://www.vsptwinegroup.com/,Zebra
+Pedro Herane,+56966184838:+56224775396,pherane@vsptwinegroup.com,pherane@vspt.cl,CEO,VSPT Wine Group,,Santiago,,,CL,Vinos y licores,http://www.vsptwinegroup.com/,Zebra
+Javier Klenner Munoz,+56988284480,javier_klenner@multi-xsalmon.com,,Gerente de TI,Multi X,,Los Lagos,,,CL,Produccion alimentaria,http://www.multi-xsalmon.com,Zebra
+Cristian Swett Pla,+56990790017,cswett@multi-xsalmon.com,cswett@multi-xsalmon.com,Gerente General / CEO,Multi X,,Los Lagos,,,CL,Produccion alimentaria,http://www.multi-xsalmon.com,Zebra
+Marcelo Hernandez M,+56986100599,mhernandez@armada.cl,,Director Corporativo de Tecnologia,Armada de Chile,,Valparaiso,,,CL,Fabricacion de productos de defensa y espacio,http://www.armada.cl,Zebra
+Pablo Maturana,+56995364540,,,Jefe de operaciones,Armada de Chile,,Valparaiso,,,CL,Fabricacion de productos de defensa y espacio,http://www.armada.cl,Zebra
+Felipe Aguirre Carmona,+56652569600,felipeaguirre@live.cl,,Head of Innovation and Product Development,Ventisqueros,,Puerto Montt,,,CL,Fabricacion de alimentos y bebidas,http://www.ventisqueros.com,Zebra
+Rodrigo Sepulveda,+56987763657:+56992229787,rsepulveda@ventisqueros.cl,vinostroza@ventisqueros.cl victor  inostroza,Subgerente de operaciones,Ventisqueros,,Puerto Montt,,,CL,Fabricacion de alimentos y bebidas,http://www.ventisqueros.com,Zebra
+Juan Carlos Sanhueza R.,+56971255662:+56942334600,carlosr@agroberries.cl,jcsanhueza@agroberries.cl,Gerente de Operaciones Corporativo,AgroBerries,,Vitacura,,,CL,Alimentacion y bebidas,https://www.agroberries.com/,Zebra
+Enrique Infante Medina,+56968418998,einfante@agroberries.cl,,Subgerente Corporativo TI,AgroBerries,,Vitacura,,,CL,Alimentacion y bebidas,https://www.agroberries.com/,Zebra
+Cristian Bustamante,+56975178459:+56226557455,cristian.bustamante@komatsu.cl,,Gerente Tecnologias de Integracion & Soluciones Digitales,Komatsu Chile,,Santiago,,,CL,Fabricacion de maquinaria,http://www.komatsu.cl,Zebra
+Felipe Nicolas Vargas Vargas,+56994509716,felipe.vargas@komatsu.cl,,Subgerente de Proyectos e Innovacion,Komatsu Chile,,Santiago,,,CL,Fabricacion de maquinaria,http://www.komatsu.cl,Zebra
+Erick Quirarte,+56227678080:+528118003287,erick.quirarte@oxxo.com,,Director General,OXXO Chile,,Santiago,,,CL,Comercio al por menor de comestibles,https://www.oxxo.cl/,Zebra
+Gustavo Allendes Stom,+56994789648,,allendesstom@gmail.com,Gerente de Tecnologia,OXXO Chile,,Santiago,,,CL,Comercio al por menor de comestibles,https://www.oxxo.cl/,Zebra
+Cristian Escobedo Klein,+56412405215:+56962465194,cescobedo@difor.cl,,Gerente General,Difor Chile,,Santiago,,,CL,Comercio al por menor de vehiculos de motor,http://www.difor.cl,Zebra
+Javier Puentes,+56977067820,jpuentes@difor.cl,,Gerente de Personas,Difor Chile,,Santiago,,,CL,Comercio al por menor de vehiculos de motor,http://www.difor.cl,Zebra
+Agustin Alfonso Herranz,+56222141029:+56984798828,agustin.alfonso@rosen.cl,,Gerente General Corporativo,Rosen,,Temuco,,,CL,Comercio al por menor,http://www.rosen.cl,Zebra
+Boris Pena Asenjo,+56226205300,boris.pena@rosen.cl,osen.santiago@rosen.cl,Gerente Corporativo de Operaciones Administracion y Sistemas,Rosen,,Temuco,,,CL,Comercio al por menor,http://www.rosen.cl,Zebra
+Javier Lecaros Hernandez,+56968319171:+56992187633,,,Gerente de operaciones y logistica,Salmones Austral,,Puerto Montt,,,CL,Produccion alimentaria,http://www.salmonesaustral.cl/,Zebra
+Cristian Villegas Oelckers,+56652683781,cristian.villegas@salmonesaustral.cl,,Jefe de Informatica,Salmones Austral,,Puerto Montt,,,CL,Produccion alimentaria,http://www.salmonesaustral.cl/,Zebra
+Pablo Alberto Adam Munoz,+56975178460:+56989596368,p.munoz@cummins.cl,,Subgerente Operaciones Zona Norte (III) Calama,Cummins Chile,,Santiago,,,CL,Sector automovilistico,http://www.cummins.cl,Zebra
+Jorge Medina,+56552576401,jmedina@cummins.cl,,Gerente Zonal Norte,Cummins Chile,,Santiago,,,CL,Sector automovilistico,http://www.cummins.cl,Zebra
+RODRIGO CAICEDO MUNOZ,+56993458109,rodrigocaicedo@dercomaq.cl,,JEFE DE PROYECTOS E INNOVACION,DERCOMAQ,,Santiago,,,CL,Fabricacion de maquinaria,http://www.dercomaq.cl,Zebra
+ANDRES MORENO,+566007861000,andresmoreno@dercomaq.cl,,GERENTE GENERAL,DERCOMAQ,,Santiago,,,CL,Fabricacion de maquinaria,http://www.dercomaq.cl,Zebra
+Andrea Morales Mora,+56979023065,andrea.morales@salazarisrael.cl,,Jefe de Operaciones,Salazar Israel,,Osorno,,,CL,Fabricacion de vehiculos de motor,https://www.salazarisrael.cl,Zebra
+Javier Bellalta,+56412732929:+56981391370,javier.bellalta@salazarisrael.cl,,GERENTE GENERAL,Salazar Israel,,Osorno,,,CL,Fabricacion de vehiculos de motor,https://www.salazarisrael.cl,Zebra
+Christian Andrade,+56652563215:+56995090996,candrade@salmonesaysen.cl,,Subgerente de Tecnologia,Salmones Aysen S.A.,,Puerto Montt,,,CL,Fabricacion de alimentos y bebidas,http://www.salmonesaysen.cl,Zebra
+Pablo Baraona Covarrubias,+56966060200,pablo.covarrubias@salmonesaysen.cl,,Executive Director,Salmones Aysen S.A.,,Puerto Montt,,,CL,Fabricacion de alimentos y bebidas,http://www.salmonesaysen.cl,Zebra
+Rodrigo Pulgar Aracena,+56953713051,rpulgar@bata.cl,,Gerente de Tecnologia,Bata Chile,,Santiago,,,CL,Comercio al por menor de prendas de vestir y moda,http://www.bata.cl,Zebra
+Humberto Escobedo,+56965992415:+56966415000,humberto.escobedo@bata.com,,Subgerente de Operaciones Logisticas,Bata Chile,,Santiago,,,CL,Comercio al por menor de prendas de vestir y moda,http://www.bata.cl,Zebra
+David Cabrini,+56962089070:+56224106724,dcabrini@pompeyo.cl,david.cabrini@pompeyo.cl,Gerente general,Pompeyo Carrasco,,Santiago,,,CL,Comercio al por menor de vehiculos de motor,http://www.pompeyo.cl,Zebra
+Rodrigo Larrain Andre,+56091395291,rodrigo.larrain@pompeyo.cl,,Sub-Gerente Control de Gestion y Desarrollo TI,Pompeyo Carrasco,,Santiago,,,CL,Comercio al por menor de vehiculos de motor,http://www.pompeyo.cl,Zebra
+Tomas Castano Fueyo,+56228877326:+56993428613,tomas@castano.cl,,Gerente de Operaciones,CASTANO,,Providencia,,,CL,Produccion alimentaria,http://www.castano.cl/,Zebra
+Javier Madrigal Barros,+56975186854,,javier.madrigalb@gmail.com,Gerente de Tecnologia y Transformacion Digital,CASTANO,,Providencia,,,CL,Produccion alimentaria,http://www.castano.cl/,Zebra
+Rodrigo Andres Broussaingaray Retamales,+56962071468,r.broussaingaray@rosselot.cl,yiyorb@gmail.com,Gerente de Operaciones y RR.HH,Automotriz Rosselot,,Vina del Mar,,,CL,Fabricacion de vehiculos de motor,http://www.rosselot.cl/,Zebra
+Isaac Melo,+56994849118,i.melo@rosselot.cl,,Jefe de operaciones,Automotriz Rosselot,,Vina del Mar,,,CL,Fabricacion de vehiculos de motor,http://www.rosselot.cl/,Zebra
+Daniela Alejandra Cubillos Munoz,+56225767900,,,Supervisor de operaciones,Seremi de Salud Region Metropolitana,,Santiago,,,CL,Fabricacion de productos textiles,https://seremi13.redsalud.gob.cl/,Zebra
+Juan Martin Monsalve Levy,+56959079792:+56990182480,,jmmonsa@yahoo.com,Gerente General Corporativo,Empresas Virutex Ilko,,Santiago,,,CL,Industria manufacturera,http://chile.somosvirutex.com/,Zebra
+Marcelo Fernandez Donoso,+56983280244,,marcelo.fernandez.d@gmail.com,Gerente Corporativo de Tecnologia,Empresas Virutex Ilko,,Santiago,,,CL,Industria manufacturera,http://chile.somosvirutex.com/,Zebra
+Pablo Giglio Ferrer,+56985294344,pgiglio@preunic.cl,,Gerente general,Preunic,,Santiago,,,CL,Comercio al por menor de productos de cuidado e higiene personal,http://www.preunic.cl,Zebra
+Jorge Sanhueza Araya,+56988090087,jsanhueza@preunic.cl,,Sub Gerente Operaciones,Preunic,,Santiago,,,CL,Comercio al por menor de productos de cuidado e higiene personal,http://www.preunic.cl,Zebra
+Antonio Sabugal,+56982092023:+56978772552,asabugal@volcan.cl,,Gerente general,Volcan,,Santiago,,,CL,Materiales de construccion,http://www.volcan.cl,Zebra
+Oscar Escobar Rangel,+56940942813:+56989438976,oescobar@volcan.cl,,Innovation and Development Manager,Volcan,,Santiago,,,CL,Materiales de construccion,http://www.volcan.cl,Zebra
+Jeremy Rojas,+56986537826,jrojas@dartel.cl,,Subgerente de TI,Dartel Electricidad,,Santiago,,,CL,Comercio al por menor,http://www.dartel.cl,Zebra
+Juan Carlos M.,+56997445427:+56944701983,jcmorales@dartel.cl,,Gerente general,Dartel Electricidad,,Santiago,,,CL,Comercio al por menor,http://www.dartel.cl,Zebra
+Sebastian Khamis,+56226789000,sk@mk.cl,,Gerente general,MK,,Santiago,,,CL,Materiales de construccion,http://www.mk.cl,Zebra
+Ricardo Fuentes,+56984398864,r.fuentes@mk.cl,,Subgerente TI,MK,,Santiago,,,CL,Materiales de construccion,http://www.mk.cl,Zebra
+Sebastian Basaure,+56982321927,sebastian.basaure@maicao.cl,,Subgerente de operaciones,Maicao,,Santiago,,,CL,Comercio al por menor,http://www.maicao.cl/,Zebra
+Paula Araya Salvo,+56800718010,paula.araya@maicao.cl,,Gerente general,Maicao,,Santiago,,,CL,Comercio al por menor,http://www.maicao.cl/,Zebra
+Felix Luhrs Raggio,+56982591874:+56995457022,felix.luhrs@colgram.com,,CEO,Colgram S.A.,,Santiago,,,CL,Comercio al por menor de prendas de vestir y moda,http://www.colgram.com,Zebra
+Pablo Silva Contreras,+56999699099:+56981513574,pablo.silva@colgram.com,,COO / Gerente Corporativo de Operaciones,Colgram S.A.,,Santiago,,,CL,Comercio al por menor de prendas de vestir y moda,http://www.colgram.com,Zebra
+Vicente Mallea,+56224788011:+56998224194,vicente.mallea@oxiquim.cl,vicente.mallea@oxiquim.com,CIO,OXIQUIM,,Santiago,,,CL,Fabricacion de productos quimicos basicos,http://www.oxiquim.com,Zebra
+Ignacio Diez,+56412866580:+56957591096,ignacio.diez@oxiquim.cl,ignacio.diez@oxiquim.com,Gerente de Operaciones,OXIQUIM,,Santiago,,,CL,Fabricacion de productos quimicos basicos,http://www.oxiquim.com,Zebra
+Eduardo Carvallo Infante,+56985012298:+56227878800,ecarvallo@cristalchile.cl,,Gerente general,Cristalchile,,Padre Hurtado,,,CL,Industria manufacturera,https://www.cristalchile.cl/,Zebra
+Christian Higuera,+56979993765,hchristian@farmaciasdoctorsimi.cl,,Gerente de Ecommerce,Farmacias del Dr. Simi Chile,,Santiago,,,CL,Fabricacion de productos farmaceuticos,http://www.farmaciasdoctorsimi.cl,Zebra
+Dagoberto Sanhueza Kurte,+56223673517:+56957785378,dsanhueza@farmaciasdoctorsimi.cl,,Subgerente de logistica,Farmacias del Dr. Simi Chile,,Santiago,,,CL,Fabricacion de productos farmaceuticos,http://www.farmaciasdoctorsimi.cl,Zebra
+Karim Eltit P.,+56990471854,karim.eltit@dimerc.cl,,Gerente General,Dimerc S.A.,,Santiago,,,CL,Comercio al por menor,http://www.dimerc.cl,Zebra
+Manuel Pacheco,+56995466236,manuel.pacheco@dimerc.cl,,Sub-Gerente Operaciones,Dimerc S.A.,,Santiago,,,CL,Comercio al por menor,http://www.dimerc.cl,Zebra
+Thomas Schalchli,+56978795886,tschalchli@vidaintegra.cl,,Subgerente de Operaciones y Procesos,Vidaintegra S.A.,,Santiago,,,CL,Fabricacion de equipo medico,http://www.vidaintegra.cl,Zebra
+Fernando Samaniego,+56979093794:+56225953528,fsamaniego@kovacs.cl,,Gerente de Informatica e Infraestructura,Kovacs SPA,,Santiago,,,CL,Fabricacion de vehiculos de motor,http://www.kovacs.cl,Zebra
+Eduardo Kovacs Bauer,+56993202041:+56997798523,ekovacsb@kovacs.cl,,Director ejecutivo,Kovacs SPA,,Santiago,,,CL,Fabricacion de vehiculos de motor,http://www.kovacs.cl,Zebra
+Ricardo Terrazas,+56229289019:+56981369641,rterrazas@lapizlopez.cl,,Gerente general,Lapiz Lopez,,Santiago,,,CL,Comercio al por menor,http://www.lapizlopez.cl,Zebra
+Igor Vergara,+56996899332:+56990895144,igorvergarabb@lapizlopez.cl,,gerente de operaciones,Lapiz Lopez,,Santiago,,,CL,Comercio al por menor,http://www.lapizlopez.cl,Zebra
+Lucia Sarret Ortega,+56998242913,,lsarreto@gmail.com,Gerente,Supermercados Cugat,,Rancagua,,,CL,Comercio al por menor de comestibles,http://www.cugat.cl,Zebra
+Anibal Letelier,+56958292183,,aniballete@gmail.com,Gerente de Innovacion y MC,Almacenes Paris,,Santiago,,,CL,Comercio al por menor,https://www.paris.cl/,Zebra
+Lautaro Eduardo Van de Wyngard Salazar,+56964963826,,,Gerente de Administracion y Operaciones,Almacenes Paris,,Santiago,,,CL,Comercio al por menor,https://www.paris.cl/,Zebra
+Ricardo Rojas Munoz,+56976596005,rojas@hcr.cl,spectrumfuc@gmail.com,Jefe del departamento de informatica,Hospital Sotero del Rio,,Santiago,,,CL,Salud publica,https://www.hospitalsoterodelrio.cl/,Zebra
+Ignacio Garcia-Huidobro Honorato,+56225762300,igarcia-huidobro@ssmso.cl,ighh@yahoo.com,Director Hospital Dr. Sotero del Rio,Hospital Sotero del Rio,,Santiago,,,CL,Salud publica,https://www.hospitalsoterodelrio.cl/,Zebra
+Oscar Alejandro Yung Rodriguez,+56995117099:+56991384002,oscar.yung@dimak.cl,,SUBGERENTE DE OPERACIONES LOGISTICAS Y DISTRIBUCION,Distribuidora Dimak Ltda.,,Osorno,,,CL,Comercio al por menor de comestibles,https://www.dimakonline.cl/,Zebra
+Pedro Bocaz Espinoza,+56642383355,pbocaz@dimak.cl,,Gerente Logistica e Informatica,Distribuidora Dimak Ltda.,,Osorno,,,CL,Comercio al por menor de comestibles,https://www.dimakonline.cl/,Zebra
+Alejandro Munoz Moraga,+56752566305:+56966088339,amunoz@hospitalcurico.cl,amunozmg@gmail.com,Subdirector de operaciones,Hospital de Curico,,Curico,,,CL,Fabricacion de equipo medico,http://www.hospitalcurico.cl/,Zebra
+Mauro Salinas,+56976870252,msalinas@hospitalcurico.cl,,Director,Hospital de Curico,,Curico,,,CL,Fabricacion de equipo medico,http://www.hospitalcurico.cl/,Zebra
+Alfredo Ignacio Rojas G.,+56974093046:+56227933850,alfredo_rojas@gnbrands.com,,Director de Operaciones y Franquicias,Doggis,,Santiago,,,CL,Alimentacion y bebidas,http://www.gnbrands.com,Zebra
+Mauricio Morales Alvarez,+56966760351,morales@gnbrands.com,,Subgerente Operaciones TI,Doggis,,Santiago,,,CL,Alimentacion y bebidas,http://www.gnbrands.com,Zebra
+Aaron Bahar,+56225832033,contacto@chilemayoristas.cl,,Gerente general,Mall Chino,,Santiago,,,CL,Comercio al por menor,http://mallchino.com,Zebra
+Carlos Santibanez,+56940474854,ventas@botilleriaryuu.com,,Gerente,Botilleria,,Santiago,,,CL,Comercio al por menor,https://botilleriaryuu.com/nosotros/,Zebra
+Santiago Valdes Birrell,+56223776400,svaldes@carozzicorp.com,,Gerente general CEO,Carozzi,,Santiago,,,CL,Servicios de alimentos y bebidas,http://www.carozzicorp.com,Zebra
+Jose Manuel Munoz Godoy,+56990786347,manuel_munoz@carozzicorp.com,,Gerente de Innovacion y Transformacion Digital,Carozzi,,Santiago,,,CL,Servicios de alimentos y bebidas,http://www.carozzicorp.com,Zebra
+Gabriel Valdes Aramburu,+59899264005:+59826138593,gvaldes@conaprole.com.uy,,CEO,CONAPROLE,,Montevideo,,,UY,Fabricacion de alimentos y bebidas,http://www.conaprole.com.uy,Zebra
+Ignacio Crispino Gallo,+59898470453,icrispino@conaprole.com.uy,,Gerente de tecnologia de la informacion,CONAPROLE,,Montevideo,,,UY,Fabricacion de alimentos y bebidas,http://www.conaprole.com.uy,Zebra
+Santiago Barbeito,+59895154394,sbarbeito@tiendainglesa.com.uy,,Director de Operaciones,Tienda Inglesa,,Montevideo,,,UY,Comercio al por menor de comestibles,http://www.tiendainglesa.com.uy,Zebra
+Juan Manuel Parada,+59894988519,jparada@tiendainglesa.com.uy,,CEO,Tienda Inglesa,,Montevideo,,,UY,Comercio al por menor de comestibles,http://www.tiendainglesa.com.uy,Zebra
+Eduardo Zukauskas,+59898928245,eduardo.zukauskas@tata.com.uy,,Gerente de Operaciones IT,TaTa S.A.,,Montevideo,,,UY,Comercio al por menor,https://www.tata.com.uy/,Zebra
+Horacio Geddo,+59894473437:+59899690909,hgeddo@tiendainglesa.com.uy,,Director de operaciones,TaTa S.A.,,Montevideo,,,UY,Comercio al por menor,https://www.tata.com.uy/,Zebra
+Alfonso M. Daniel Pituello,+59825182530:+5491165367062,,dpituello@h.ui,Director de Tecnologia LATAM,Adium,,Montevideo,,,UY,Fabricacion de productos farmaceuticos,http://www.adiumpharma.com,Zebra
+Patricio Rodriguez,+59894675765,prodriguez@adium.com.uy,,CEO,Adium,,Montevideo,,,UY,Fabricacion de productos farmaceuticos,http://www.adiumpharma.com,Zebra
+Fabian Fajardo,+59826236327:+59899617354,fabian.fajardo@montesdelplata.com.uy,,IT Manager,Montes del Plata,,Conchillas,,,UY,Fabricacion de papel y productos forestales,http://www.montesdelplata.com.uy,Zebra
+Diego Wollheim,+59826236328:+59899720310,diego.wollheim@montesdelplata.com.uy,,Gerente General (CEO),Montes del Plata,,Conchillas,,,UY,Fabricacion de papel y productos forestales,http://www.montesdelplata.com.uy,Zebra
+Nathalie Manhard,+59894449919:+59891449919,nmanhard@chicparisien.com,,Directora,Chic Parisien | Indian La Casa de las Telas Indian Home Maximo Intima,,Montevideo,,,UY,Comercio al por menor de prendas de vestir y moda,http://www.chicparisien.com,Zebra
+Federico Reyes,+59824009236,freyes@chicparisien.com,,Jefe de operaciones de logistica,Chic Parisien | Indian La Casa de las Telas Indian Home Maximo Intima,,Montevideo,,,UY,Comercio al por menor de prendas de vestir y moda,http://www.chicparisien.com,Zebra
+Juan Manuel Lopez Colla,+59829024879,jlopez@grupoaxo.com,,Gerente general,SiSi,,Montevideo,,,UY,Fabricacion de productos textiles,http://www.sisi.com.uy,Zebra
+Jose Polakof,+59899791793:+59842220546,jpolakof@eldorado.com.uy,,Director general,El Dorado,,Maldonado,,,UY,Comercio al por menor de comestibles,http://www.eldorado.com.uy/,Zebra
+Richard Alfonso,+59894504057,ralfonso@eldorado.com.uy,,Gerente de Logistica Integral,El Dorado,,Maldonado,,,UY,Comercio al por menor de comestibles,http://www.eldorado.com.uy/,Zebra
+Gonzalo Andres,+59899777095,gandres@disco.com.uy,,Gerente de Sistemas,GDU,,Montevideo,,,UY,Comercio al por menor de comestibles,https://www.grupodiscouruguay.com.uy/,Zebra
+Juan Palacios,+59827117250,direccion@disco.com.uy,jpalacios.cba@gmail.com,Subdirector general,GDU,,Montevideo,,,UY,Comercio al por menor de comestibles,https://www.grupodiscouruguay.com.uy/,Zebra
+Juan Voelker,+59899597423:+59899608276,juan.voelker@semm.com.uy,,Director,SEMM - Sistema de Emergencia Medico Movil,,Montevideo,,,UY,Fabricacion de equipo medico,http://www.semm.com.uy,Zebra
+Jorge G.,+59894406161,jorge.grazioli@semm.com.uy,,Jefe Gestion Humana,SEMM - Sistema de Emergencia Medico Movil,,Montevideo,,,UY,Fabricacion de equipo medico,http://www.semm.com.uy,Zebra
+Daniel O'Neill,+59824870525,daniel.oneill@medicauruguaya.com.uy,,Director de TI,Medica Uruguaya,,Montevideo,,,UY,Fabricacion de equipo medico,http://www.medicauruguaya.com.uy,Zebra
+Rafael Bertullo,+59824874950,,rafaelbertullo@gmail.com,Clinical Laboratory IT Manager,Medica Uruguaya,,Montevideo,,,UY,Fabricacion de equipo medico,http://www.medicauruguaya.com.uy,Zebra
+Andres Gregorini,+59893760000:+59896796000,,unilam.gerencia@gmail.com,Gerente general,UNILAM,,Montevideo,,,UY,Comercio al por menor,https://www.guapa.com.uy/,Zebra
+Mauricio Poggio Veiro,+59894074708:+59898046732,,mpoggioveiro@gmail.com,Gerente de TI,UNILAM,,Montevideo,,,UY,Comercio al por menor,https://www.guapa.com.uy/,Zebra
+Nicolas Blankleider,+59898764262,nblankleider@macromercado.com.uy,,Jefe TI,Macromercado Mayorista S.A.,,Montevideo,,,UY,Comercio al por menor de comestibles,http://www.macromercado.com.uy,Zebra
+Julio Cesar De Barros,+59822096301,jde@macromercado.com.uy,,Gerente,Macromercado Mayorista S.A.,,Montevideo,,,UY,Comercio al por menor de comestibles,http://www.macromercado.com.uy,Zebra
+Andres Pedernera,+541143401100,apedernera@megatone.net,,Gerente De Sistemas,Megatone,,Rafaela,,,AR,Fabricacion De Ordenadores Y Electronica,https://www.megatone.net/,Zebra
+Gabriel Nishimoto,+541148299029:+5491150602269,gabrielnishimoto@natura.net,,Cio At Natura Argentina,Natura Cosmeticos Sa,,Mendoza,,,AR,Venta Al Por Mayor,https://www.naturacosmeticos.com.ar/,Zebra
+Hernan Winkelmann,+551144462000,winkelmannhernan@natura.com.br,,Gerente De Tecnologia Digital Latam En Natura,Natura Cosmeticos Sa,,Mendoza,,,AR,Venta Al Por Mayor,https://www.naturacosmeticos.com.ar/,Zebra
+Agustin Llanos,+541143401100,agustin.llanos@molinos.com.ar,,CEO,Molinos Rio de la Plata,,Pilar,,,AR,,http://www.molinos.com.ar,Zebra
+Yeferson Betancourt,+541143401100,yeferson.betancourt@molinos.com.ar,yefersonbetan@gmail.com,Administrador de Infraestructura IT,Molinos Rio de la Plata,,Pilar,,,AR,,http://www.molinos.com.ar,Zebra
+Diego Frias,+541148299029:+5491140781434,diego.frias@molinos.com.ar,pepofrias@hotmail.com,Gerente IT,Molinos Rio de la Plata,,Pilar,,,AR,,http://www.molinos.com.ar,Zebra
+Federico Pasqualetti,+541143401100,federico.pasqualetti@molinos.com.ar,fpasqualetti@hotmail.com,Director Ejecutivo de Administracion y Finanzas (CFO),Molinos Rio de la Plata,,Pilar,,,AR,,http://www.molinos.com.ar,Zebra
+Santiago Sastre Bartellini,+548003333532,santiago.sastre@molinos.com.ar,,Administracion de Empresas y Finanzas,Molinos Rio de la Plata,,Pilar,,,AR,,http://www.molinos.com.ar,Zebra
+Rodrigo Villada,+541143442000:+1555232680,rvillada@bago.com.ar,rodrigo.villada@gmail.com,"Sr IT Business Partner &amp, Governance Manager",Laboratorios Bago,,CABA,,,AR,,http://www.bago.com.ar,Zebra
+Pablo Guida,+5491131663448:+541143442000,pguida@bago.com.ar,pabloguida@hotmail.com,Gerente de Sistemas y Tecnologia (CIO),Laboratorios Bago,,CABA,,,AR,,http://www.bago.com.ar,Zebra
+Fernando Pombo,+541143794300,fpombo@bago.com.ar,pombofer@yahoo.com.ar,CFO,Laboratorios Bago,,CABA,,,AR,,http://www.bago.com.ar,Zebra
+Fernando Alfredo Castineira,+5491131651539,cfernando@bago.com,,Gerente de Administracion y Finanzas,Laboratorios Bago,,CABA,,,AR,,http://www.bago.com.ar,Zebra
+Cecilia Bordenave Tauzia,+5491141900814:+542994496000,,cbordenavetauzia@hotmail.com,Gerente de Finanzas,Laboratorios Bago,,CABA,,,AR,,http://www.bago.com.ar,Zebra
+Matias Borra,+5491163377407,,mborra@hotmail.com.ar,Sistemas,Mastellone Hnos. S.A.,,CABA,,,AR,,http://www.laserenisima.com.ar,Zebra
+Claudio Omar Fernandez Saavedra,+5491158520422,,claudio1967@gmail.com,Director de administracion y finanzas,Mastellone Hnos. S.A.,,CABA,,,AR,,http://www.laserenisima.com.ar,Zebra
+Claudio Maidana,+541158432394,claudio.maidana@diagroup.com,,Information Technology System Coordinator,Dia Argentina,,CABA,,,AR,,https://www.supermercadosdia.com.ar,Zebra
+Sebastian Laporte,+54264401_2000:+34913985400,,,Gerente de Servicios IT,Dia Argentina,,CABA,,,AR,,https://www.supermercadosdia.com.ar,Zebra
+Julian Cerdan,+5491157280827,julian.cerdan@nextel.com.ar,jcerdan2@gmail.com,Director de Tesoreria,Dia Argentina,,CABA,,,AR,,https://www.supermercadosdia.com.ar,Zebra
+Daniel Costa,+5491139002741,,danielcosta_ar@yahoo.com,Gerente de Tesoreria,Dia Argentina,,CABA,,,AR,,https://www.supermercadosdia.com.ar,Zebra
+Daniela Lucia Spaccarotella,+542226470097:+54348744_3000,,,Gerente Administracion y Finanzas,Toyota Argentina,,CABA,,,AR,,http://www.toyota.com.ar,Zebra
+Sergio Andres Chapete Montoya,+5492226481078:+573102209000,schapete@toyota.com.ar,schapete@hotmail.com,Project Finance Expat Manager,Toyota Argentina,,CABA,,,AR,,http://www.toyota.com.ar,Zebra
+Graciela Beatriz Balduzzi,+542226432885,gbalduzzi@toyota.com.ar,,Jefe de finanzas corporativas,Toyota Argentina,,CABA,,,AR,,http://www.toyota.com.ar,Zebra
+Erika Garcia,+5491167135331:+5491135909236,,garcia.eri@gmail.com,IT Manager,Ford Argentina,,CABA,,,AR,,http://www.ford.com.ar,Zebra
+Pablo Daniel Mendoza,+5491135909236,,pmendoz1@gmail.com,Project Manager / Infrastructure Analyst,Ford Argentina,,CABA,,,AR,,http://www.ford.com.ar,Zebra
+Francisco Joaquin Arnau,+5491135909236,,joaquinarnau@gmail.com,Product Development Finance Manager,Ford Argentina,,CABA,,,AR,,http://www.ford.com.ar,Zebra
+Gustavo Ricchini,+5491135909236,,gr_300@yahoo.com.ar,Regional Cost Estimator engineer- Operation controller-Finance,Ford Argentina,,CABA,,,AR,,http://www.ford.com.ar,Zebra
+Gustavo D. Pelizzari,+541148589000:+548003333532,gustavo.pelizzari@elea.com,,CEO,Laboratorio Elea,,CABA,,,AR,,http://www.elea.com,Zebra
+Alexis Statharacos,+548003333532,statharacosa@elea.com,statharacosale@gmail.com,Head of Technology (CIO),Laboratorio Elea,,CABA,,,AR,,http://www.elea.com,Zebra
+Diego Hernan Sanchez,+431625472420,sanchezd@elea.com,,Director de Administracion y Finanzas,Laboratorio Elea,,CABA,,,AR,,http://www.elea.com,Zebra
+Mario Synay,+548003333532:+5491131651539,,,Jefe de Infraestructura de Sistemas,Laboratorio Elea,,CABA,,,AR,,http://www.elea.com,Zebra
+Martin Dalceggio,+5491133917604:+5491141900814:+541140216000,mdalceggio@andromaco.com.ar,,Gerente de Tecnologia y Desarrollo Digital,Laboratorios Andromaco,,CABA,,,AR,,http://www.andromaco.com,Zebra
+Pablo Blanco,+5491155151287,pblanco@andromaco.com,pabloblanco@live.com.ar,Administrador de Infraestructura y Servicios IT,Laboratorios Andromaco,,CABA,,,AR,,http://www.andromaco.com,Zebra
+Diego Luis Sturla Newton,+541140216000,dsturla@andromaco.com,diego.sturla@gmail.com,Gerente de Transformacion Digital y Proyectos Estrategicos,Laboratorios Andromaco,,CABA,,,AR,,http://www.andromaco.com,Zebra
+Miguel Angel Gonzalez Lopez,+541140216000,mlopez@andromaco.com,magonzalezlopez@yahoo.com.ar,Gerente de Administracion y Finanzas,Laboratorios Andromaco,,CABA,,,AR,,http://www.andromaco.com,Zebra
+Agustin Alvarez Diaz,+541140114368,aalvarez@raffo.com.ar,alvarezdiazagustin@gmail.com,IT Project Manager,Laboratorios Raffo,,CABA,,,AR,,http://www.raffo.com.ar,Zebra
+Andrea Frascaroli,+541143469700:+5491157280827,andrea-f@roemmers.com.ar,andrea.v.frascaroli@gmail.com,Gerente Financiero de ventas,Roemmers,,CABA,,,AR,,https://www.roemmers.com.ar/,Zebra
+Hernan Serra,+541144899100:+5491139002741,hserra@roemmers.com.ar,hernanserram@hotmail.com,Gerente General,Roemmers,,CABA,,,AR,,https://www.roemmers.com.ar/,Zebra
+Pablo Rodriguez,+541143469700,pablo@roemmers.com.ar,,Gerente General,Roemmers,,CABA,,,AR,,https://www.roemmers.com.ar/,Zebra
+Hugo Tierno,+541142392354,htierno@roemmers.com.ar,,Gerente de Operaciones,Roemmers,,CABA,,,AR,,https://www.roemmers.com.ar/,Zebra
+Fabian Parodi,+541143469700,fparodi@roemmers.com.ar,,Gerente de Estrategias Digitales,Roemmers,,CABA,,,AR,,https://www.roemmers.com.ar/,Zebra
+Dario Maydup,+542226470097,,dariomaydup@gmail.com,Administrador de TI,Molino Canuelas SACIFIA,,CABA,,,AR,,www.molinocanuelas.com,Zebra
+Damian Moyano,+5492226481078,,damianmoyano83@gmail.com,Jefe de Infraestructura y Operaciones,Molino Canuelas SACIFIA,,CABA,,,AR,,www.molinocanuelas.com,Zebra
+Javier Arnaldo Cantero,+541140932413:+542226432885,,,Administrador de redes,Molino Canuelas SACIFIA,,CABA,,,AR,,www.molinocanuelas.com,Zebra
+Cristian Cotone,+541136646279,,criscotone@gmail.com,Director Corporativo de Administracion y Finanzas,Molino Canuelas SACIFIA,,CABA,,,AR,,www.molinocanuelas.com,Zebra
+Facundo Cicchitti,+5491138547560,,facundocicchitti@hotmail.com,Jefe de administracion,Molino Canuelas SACIFIA,,CABA,,,AR,,www.molinocanuelas.com,Zebra
+Jonatan Costa,+543493428000,c.j@bonafide.com.ar,costa.f.jonatan@gmail.com,Gerente general de operaciones,Bonafide Argentina,,La Pampa,,,AR,,http://www.bonafide.com.ar,Zebra
+Cecilia Palabesino,+541148589000,cecilia.palabesino2@gmail.com,,Directora de Administracion y Finanzas,Gador,,Cordoba,,,AR,,http://www.gador.com,Zebra
+Hernan Monti,+541148589000,,hernanmonti@gmail.com,IT Manager,Gador,,Cordoba,,,AR,,http://www.gador.com,Zebra
+Juan Ignacio Beade Harbin,+431625472420:+541155050787,,juan.beade@gmail.com,CIO,Gador,,Cordoba,,,AR,,http://www.gador.com,Zebra
+Pablo Oscar Vultaggio,+541145525176:+1550175723,,vulta_terra@yahoo.com.ar,Jefe de Desarrollo de Sistemas,Gador,,Cordoba,,,AR,,http://www.gador.com,Zebra
+Rafael Ignacio Sanchez,+5491133917604:+548102201000,rafael.sanchez@bsg.global,rafaelsanchez10@yahoo.com,"Chief Innovation Officer (Dir. Innovacion Technology &amp, Conocimiento) Head Officer",Blue Star Group (Todomoda Isadora),,CABA,,,AR,,http://www.bsg.global,Zebra
+Franco Santoli,+541138112163:+5491155151287,franco.santoli@bsg.global,f.santoli@yahoo.com.ar,Technology Director,Blue Star Group (Todomoda Isadora),,CABA,,,AR,,http://www.bsg.global,Zebra
+Martin Waldoke,+541157292570,martin.waldoke@bsg.global,mwaldoke@yahoo.com.ar,Jefe de Finanzas,Blue Star Group (Todomoda Isadora),,CABA,,,AR,,http://www.bsg.global,Zebra
+Pablo Giorgi,+541123141775,pablo.giorgi@bsg.global,,CFO,Blue Star Group (Todomoda Isadora),,CABA,,,AR,,http://www.bsg.global,Zebra
+Matias Bagnat,+548102201000,matias.bagnat@bsg.global,matiasbagnat@yahoo.com,Jefe de Adm y Fin,Blue Star Group (Todomoda Isadora),,CABA,,,AR,,http://www.bsg.global,Zebra
+Martin Castelli,+548102201000,martin.castelli@bsg.com.ar,,Presidente,Blue Star Group (Todomoda Isadora),,CABA,,,AR,,http://www.bsg.global,Zebra
+Javier Grimaldi,+541140114368:+541151835637,jgrimaldi@prune.com.ar,javiergrimaldi@hotmail.com,CIO,Prune,,CABA,,,AR,,http://www.prune.com.ar,Zebra
+Facundo Osuna Sanchez,+541157778330,,fakaoh@gmail.com,Lider de Aplicaciones IT,Prune,,CABA,,,AR,,http://www.prune.com.ar,Zebra
+Victor Gualdi,+1157663674:+541144899100:+541144899255,vgualdi@laanonima.com.ar,vgualdi@gmail.com,Director Ejecutivo de IT,La Anonima,,CABA,,,AR,,http://www.laanonima.com.ar,Zebra
+Gustavo Marino,+541144899100,gmarino@laanonima.com.ar,marino.gustavo@gmail.com,E-Commerce Business Senior Manager,La Anonima,,CABA,,,AR,,http://www.laanonima.com.ar,Zebra
+Carlos Bernardo Zubiarrain,+1563073902,czubiarrain@laanonima.com.ar,carloszubiarrain@hotmail.com,Gerente de Administracion y Operaciones Fintech,La Anonima,,CABA,,,AR,,http://www.laanonima.com.ar,Zebra
+Eduardo Jaimez,+541144899100,ejaimez@laanonima.com.ar,,Responsable de tesoreria,La Anonima,,CABA,,,AR,,http://www.laanonima.com.ar,Zebra
+Gustavo Gabriel Toledo,+541140932413,gustavo.toledo@rapsodia.com.ar,gustoledo86@gmail.com,Lider de Soporte Tecnico IT,Rapsodia,,CABA,,,AR,,https://www.rapsodia.com.ar/,Zebra
+Pablo Ascona,+541136646279,pablo.ascona@rapsodia.com.ar,,Subgerente de operaciones,Rapsodia,,CABA,,,AR,,https://www.rapsodia.com.ar/,Zebra
+Matias Ragazzo,+5491138547560,matias.ragazzo@rapsodia.com.ar,,Jefe de Operaciones,Rapsodia,,CABA,,,AR,,https://www.rapsodia.com.ar/,Zebra
+Alberto Baretta,+543493428000,alberto.baretta@sancor.com.ar,,Responsable de IT,SanCor,,Santa Fe,,,AR,,http://www.sancor.com,Zebra
+Gabriela Modini,+543493428000,gabriela.modini@sancor.com.ar,,Jefatura de Tecnologia Seguridad y Comunicaciones - Sistemas,SanCor,,Santa Fe,,,AR,,http://www.sancor.com,Zebra
+Jose Manuel Vazquez,+1551093336,jose.vazquez@sancor.com.ar,,Chief Financial Officer,SanCor,,Santa Fe,,,AR,,http://www.sancor.com,Zebra
+mario magdalena,+548107770707,mario.magdalena@sancor.com.ar,,Gerente de Finanzas,SanCor,,Santa Fe,,,AR,,http://www.sancor.com,Zebra
+Eduardo Zago,+543493428000,eduardo.zago@sancor.com.ar,,Gerente del departamento de finanzas,SanCor,,Santa Fe,,,AR,,http://www.sancor.com,Zebra
+Federico Ariel Vazquez,+541126547005,fvazquez@arredo.com.ar,federicoarielvazquez@gmail.com,"Senior IT Infrastructure &amp, Operations Manager",arredo,,CABA,,,AR,,https://www.arredo.com.ar,Zebra
+Ignacio Monte,+1544285155,imonte@arredo.com.ar,ignaciojmonte@gmail.com,CFO,arredo,,CABA,,,AR,,https://www.arredo.com.ar,Zebra
+Eugenio Sellan,+541138112163,eugenio.sellan@mirgor.com,eusellan@gmail.com,CIO,Grupo Mirgor,,Santa Fe,,,AR,,http://www.mirgor.com,Zebra
+Monica Di Paolo Leiva,+541157292570,monica.di@mirgor.com,monica_dpl@hotmail.com,IT Manager,Grupo Mirgor,,Santa Fe,,,AR,,http://www.mirgor.com,Zebra
+Juan Daniel Perez,+541123141775:+0114932_4453,daniel@mirgor.com.ar,juandanielp24@gmail.com,IT Manager,Grupo Mirgor,,Santa Fe,,,AR,,http://www.mirgor.com,Zebra
+Romina C. Fernandez R.,+541137527100,romina.fernandez@mirgor.com,rominafernandez86@hotmail.com,Responsable Tesoreria Regional,Grupo Mirgor,,Santa Fe,,,AR,,http://www.mirgor.com,Zebra
+Federico Iglesias,+543327451000,federico.iglesias@mirgor.com,iglesiasfederico@hotmail.com,Administracion y Finanzas,Grupo Mirgor,,Santa Fe,,,AR,,http://www.mirgor.com,Zebra
+Matias Biagi,+5491168880870,matias.biagi@mirgor.com,matiasb2277@hotmail.com,Administracion y Finanzas,Grupo Mirgor,,Santa Fe,,,AR,,http://www.mirgor.com,Zebra
+Jorge Mariano Roca,+541157778330,,jorgemroca@hotmail.com,Gerente general,Cristobal Colon S.R.L.,,CABA,,,AR,,http://www.cristobalcolon.com,Zebra
+Carlos Manuel Sueta,+541157778330,,carlossueta@gmail.com,Director,Cristobal Colon S.R.L.,,CABA,,,AR,,http://www.cristobalcolon.com,Zebra
+Martin Cariatti Elcano,+541157778330,,martincariatti@gmail.com,Jefe de Administracion,Cristobal Colon S.R.L.,,CABA,,,AR,,http://www.cristobalcolon.com,Zebra
+Juan Manuel Ramos,+541157663674,,2811.jmr@gmail.com,Gerente de Logistica y Operaciones,Cristobal Colon S.R.L.,,CABA,,,AR,,http://www.cristobalcolon.com,Zebra
+Diego Alejandro Richard,+543413274088:+5491133459353,r.alejandro@cassara.com.ar,diego_richard@yahoo.com.ar,Jefe de Tecnologia,Laboratorio Pablo Cassara,,CABA,,,AR,,https://www.cassara.com.ar/,Zebra
+Pablo Saracco,+543514938400,pablo_saracco@cassara.com.ar,,Director Supply Chain and Logistics Operations,Laboratorio Pablo Cassara,,CABA,,,AR,,https://www.cassara.com.ar/,Zebra
+Karina Lorena Puyol,+1563073902:+541141054100,,karina_puyol@hotmail.com,CFO,Laboratorio Pablo Cassara,,CABA,,,AR,,https://www.cassara.com.ar/,Zebra
+Julio Cesar Vega,+5493516506500,jvega@cassara.com.ar,jvega8888@hotmail.com.ar,Gerente de innovacion,Laboratorio Pablo Cassara,,CABA,,,AR,,https://www.cassara.com.ar/,Zebra
+Fernando Javier Boglio,+541141054100,fernando_boglio@cassara.com.ar,,Gerente Administracion y Finanzas,Laboratorio Pablo Cassara,,CABA,,,AR,,https://www.cassara.com.ar/,Zebra
+Maria Andrea Azanza,+5491149270684,aazanza@liliana.com.ar,,Gerente de Sistemas,Liliana Electrodomesticos,,Santa Fe,,,AR,,http://www.liliana.com.ar,Zebra
+Angel Podio,+5491156988998,,angeljpodio@hotmail.com,Jefe de finanzas y tesoreria,Liliana Electrodomesticos,,Santa Fe,,,AR,,http://www.liliana.com.ar,Zebra
+Dario Lurati,+5493413999849,dlurati@liliana.com.ar,dglurati@live.com.ar,erente de Administracion y Finanzas,Liliana Electrodomesticos,,Santa Fe,,,AR,,http://www.liliana.com.ar,Zebra
+Betina Alejandra Percoco Vittori,+543415946059,,betinapercoco@hotmail.com,Tesorera,Liliana Electrodomesticos,,Santa Fe,,,AR,,http://www.liliana.com.ar,Zebra
+Marco Inda Tarifa,+542204929100:+1551093336,,mindatar@gmail.com,Gerente de Sistemas,Sullair Argentina,,CABA,,,AR,,http://www.sullairargentina.com,Zebra
+Eduardo Andres Bornacin,+548107770707,ebornacin@sullair.com.ar,,Jefe de Tesoreria,Sullair Argentina,,CABA,,,AR,,http://www.sullairargentina.com,Zebra
+Anahi (Veronica) Traba,+595984259581,atraba@sullair.com.ar,,Business Transformation Especialist,Sullair Argentina,,CABA,,,AR,,http://www.sullairargentina.com,Zebra
+Lucas Serebrinik,+541126547005,lucas.serebrinik@byma.com.ar,lucasserebrinik@hotmail.com,IT Manager,Sullair Argentina,,CABA,,,AR,,http://www.sullairargentina.com,Zebra
+Gabriel Llenes,+65679826,,gabrielllenes@yahoo.com.ar,CFO,Sullair Argentina,,CABA,,,AR,,http://www.sullairargentina.com,Zebra
+Ricardo Diaz,+548107770707,,rj_diaz@yahoo.es,Gerente de Planeamiento Financiero y Control de Gestion,Sullair Argentina,,CABA,,,AR,,http://www.sullairargentina.com,Zebra
+Federico Gutierrez Posse,+261568955,,fede.90.66@hotmail.com,Administrador de infraestructuras de TI,Quimica Montpellier S.A.,,CABA,,,AR,,https://www.montpellier.com.ar/,Zebra
+Gabriel Faleschini,+5492615520111,gfaleschini@montpellier.com.ar,,Gerente de Finanzas,Quimica Montpellier S.A.,,CABA,,,AR,,https://www.montpellier.com.ar/,Zebra
+Marcelo Sabach,+541145568000,,marcelosabach@gmail.com,"IT &amp, Chief Digital Officer",Scania Argentina,,CABA,,,AR,,https://www.scania.com/ar/es/home.html,Zebra
+Rodolfo Chaves,+543327451000,rodolfo.chaves@scania.com,,"Economy &amp, IT Manager",Scania Argentina,,CABA,,,AR,,https://www.scania.com/ar/es/home.html,Zebra
+Alfredo Muller,+5491168880870,alfredo.muller@scania.com,alfredo_muller@fibertel.com.ar,Head of IT,Scania Argentina,,CABA,,,AR,,https://www.scania.com/ar/es/home.html,Zebra
+Fernanda Monsalve,+543327451000,fernanda.monsalve@scania.com,,CFO,Scania Argentina,,CABA,,,AR,,https://www.scania.com/ar/es/home.html,Zebra
+Rodrigo Alvarez,+5491157069878,,rodrigo_alvarez_57@hotmail.com,Gerente de Finanzas,Scania Argentina,,CABA,,,AR,,https://www.scania.com/ar/es/home.html,Zebra
+Leandro Lionel Lattanzio,+548102201000,llattanzio@secco.com.ar,llattan2002@yahoo.com.ar,SubGerente de Tecnologia,Industrias Juan F. Secco,,Santa Fe,,,AR,,http://www.secco.com.ar,Zebra
+Lucas Dieguez,+542804459000,ldieguez@secco.com.ar,luks.dieguez@gmail.com,Jefe de Tecnologia,Industrias Juan F. Secco,,Santa Fe,,,AR,,http://www.secco.com.ar,Zebra
+Hernan Juri,+543414094000,hjuri@secco.com.ar,hjuri@jfs.com.ar,"Gerente de Administracion &amp, Finanzas",Industrias Juan F. Secco,,Santa Fe,,,AR,,http://www.secco.com.ar,Zebra
+Diego Sebastian Tartufoli,+543413274088,dtartufoli@secco.com.ar,diegotartufoli@hotmail.com,Responsable de Finanzas,Industrias Juan F. Secco,,Santa Fe,,,AR,,http://www.secco.com.ar,Zebra
+Diego Depiante,+543514938400:+19177154668,ddepiante@porta.com.ar,diegodep@msn.com,Gerente de IT y Programacion,Porta Hnos. S.A.,,Cordoba,,,AR,,https://www.porta.com.ar/,Zebra
+Nestor Gabriel Villagran,+543514938400,villagran@portahnos.com.ar,villagrannestor@hotmail.com,SENIOR EN OPERACIONES - IT,Porta Hnos. S.A.,,Cordoba,,,AR,,https://www.porta.com.ar/,Zebra
+Lucrecia Porta,+56991473201:+5493516506500,lporta@porta.com.ar,lucreporta@gmail.com,Gerente Financiera,Porta Hnos. S.A.,,Cordoba,,,AR,,https://www.porta.com.ar/,Zebra
+Jose Antonio Porta,+56953961118,joseaporta@porta.com.ar,,Presidente | President,Porta Hnos. S.A.,,Cordoba,,,AR,,https://www.porta.com.ar/,Zebra
+Marcelo Coldeira,+56994795032:+5491149270684,marcelo.coldeira@centraloeste.com.ar,marcelocoldeira@gmail.com,CIO,Farmacias Central Oeste,,CABA,,,AR,,http://www.centraloeste.com.ar,Zebra
+Leonardo Martinengo,+56982880359:+5491156988998,leonardo.martinengo@centraloeste.com.ar,lgmartinengo@gmail.com,Gerente de Administracion y Finanzas,Farmacias Central Oeste,,CABA,,,AR,,http://www.centraloeste.com.ar,Zebra
+Fabio Colaianni,+5493413999849:+543415946059,fcolaianni@swift.com.ar,fabio.colaianni@minervafoods.com,Gerente TI,Swift Argentina,,CABA,,,AR,,http://sitio.swift.com.ar/empresa.html,Zebra
+Miguel De Achaval,+543415946059,mde@swift.com.ar,,Presidente | President,Swift Argentina,,CABA,,,AR,,http://sitio.swift.com.ar/empresa.html,Zebra
+Hugo Colo,+542204929100:+542204929103,hcolo@swift.com.ar,,Director Financiero,Swift Argentina,,CABA,,,AR,,http://sitio.swift.com.ar/empresa.html,Zebra
+Favio Lionel Alonso,+595984259581:+5491168732176,falonso@cheeky.com.ar,favioalonso@gmail.com,Gerente de Sistemas y Tecnologia - CIO - IT Manager,"Cheeky &amp, Como quieres",,CABA,,,AR,,http://www.cheeky.com.ar,Zebra
+Norberto Adrian Oliveira,+543414106576,aoliveira@cheeky.com.ar,,Jefe de Desarrollo de Sistemas,"Cheeky &amp, Como quieres",,CABA,,,AR,,http://www.cheeky.com.ar,Zebra
+Federico Coronel,+56984289538:+261568955,federico.coronel@familiazuccardi.com,federico.coronel@gmail.com,Jefe de sistemas,Familia Zuccardi Argentina,,Mendoza,,,AR,,http://www.familiazuccardi.com,Zebra
+Ingrid Gimenez,+542614410000,igimenez@familiazuccardi.com,gimenez_ingrid@hotmail.com,Jefa de finanzas,Familia Zuccardi Argentina,,Mendoza,,,AR,,http://www.familiazuccardi.com,Zebra
+Fernando Leiva,+5492615520111,fleiva@familiazuccardi.com,hfleiva@gmail.com,Gerente de TI,Familia Zuccardi Argentina,,Mendoza,,,AR,,http://www.familiazuccardi.com,Zebra
+Marcelo Paiva,+542614410000,mpaiva@familiazuccardi.com,,Administrador de Sistemas y Redes,Familia Zuccardi Argentina,,Mendoza,,,AR,,http://www.familiazuccardi.com,Zebra
+Juan Vergara,+542614410000,jvergara@familiazuccardi.com,,Finanzas y Control Patrimonial,Familia Zuccardi Argentina,,Mendoza,,,AR,,http://www.familiazuccardi.com,Zebra
+German Wiefling,+541145568000,gwiefling@garbarino.com,germanw1@hotmail.com,Director Tecnologia,Garbarino S.A.,,Cordoba,,,AR,,https://www.garbarino.com/,Zebra
+Gabriel Figueroa,+541145568000,gfigueroa@garbarino.com,,jefe de finanzas,Garbarino S.A.,,Cordoba,,,AR,,https://www.garbarino.com/,Zebra
+Lidy Angelina Carrillo,+541145568000,lidyf@garbarino.com.ar,,Jefe de Tesoreria,Garbarino S.A.,,Cordoba,,,AR,,https://www.garbarino.com/,Zebra
+Felipe Bagnat,+5491157069878,felipe@todomoda.net,,Gerente de Sistemas,Todomoda,,CABA,,,AR,,http://www.todomoda.com,Zebra
+Camila Licciardone,+548102201000,camila.licciardone@bsg.global,camilalicciardone@gmail.com,Product Manager,Todomoda,,CABA,,,AR,,http://www.todomoda.com,Zebra
+Federico Merener,+542804459000,fmerener@fate.com.ar,,"Director &amp, Gerente de Administracion y Estudios Economicos",FATE SAICI,,CABA,,,AR,,http://www.fate.com.ar,Zebra
+Ing. Carlos Esquivel,+56998123446:+56226741256:+56964188027,carlos.esquivel@casaideas.com,,Jefe de operaciones de TI,Casaideas,,Santiago,,,CL,Retail,http://www.casaideas.com,Zebra
+Valentina Vigueras,+56986879654,vrojas@corona.cl,,Marketing Product Manager,Corona Chile,,Recoleta,,,CL,Retail,http://www.corona.cl,Zebra
+Ing. Melodye Alvarez,+56995436238,malvarezl@smu.cl,,IT Project Manager,Smu Sa Unimarc M10 Alvi Y Super10,,Las Condes,,,CL,Retail,http://www.smu.cl,Zebra
+Ing. Mauricio Donoso,+56977612476:+56226405710:+56979213505,mdonoso@smu.cl,,Senior IT Project Manager,Smu Sa Unimarc M10 Alvi Y Super10,,Las Condes,,,CL,Retail,http://www.smu.cl,Zebra
+Ing. Eduardo Herrera,+56968441857:+56998260528,eherrera@smu.cl,,Gerente Corporativo Digital y TecnologA_a / Chief Digital and Technology Officer,Smu Sa Unimarc M10 Alvi Y Super10,,Las Condes,,,CL,Retail,http://www.smu.cl,Zebra
+Ing. Jorge Vinuela,+56988883941:+56986386412,jvinuela@smu.cl,,Gerente de TecnologA_a e InnovaciA3n / CTO,Smu Sa Unimarc M10 Alvi Y Super10,,Las Condes,,,CL,Retail,http://www.smu.cl,Zebra
+Cristian Anfossi,+56999910441,canfossi@agrosuper.com,,Gerente Corporativo de Finanzas,Agrosuper,,Rancagua,,,CL,Fabricacion de alimentos y bebidas,https://www.agrosuper.cl/,Zebra
+Isaac Villablanca Peters,+56996430060,ivillablanca@agrosuper.com,,Gerente de Operaciones,Agrosuper,,Rancagua,,,CL,Fabricacion de alimentos y bebidas,https://www.agrosuper.cl/,Zebra
+Felipe Berrios,+56966495539:+56977486094,felipe@agrosuper.com,,Chief Information Security Officer (CISO),Agrosuper,,Rancagua,,,CL,Fabricacion de alimentos y bebidas,https://www.agrosuper.cl/,Zebra
+Gianfranco Truffello Jijena,+56224617271,gtruffello@arauco.cl,,Chief Financial Officer,ARAUCO,,Santiago,,,CL,Fabricacion de papel y productos forestales,https://arauco.com/chile/,Zebra
+Raul Munoz,+56982332062:+56997995601,raul.munoz@arauco.cl,,"Gerente de operaciones Chile &amp, Argentina",ARAUCO,,Santiago,,,CL,Fabricacion de papel y productos forestales,https://arauco.com/chile/,Zebra
+Felipe Ojeda,+56973391406,felipe.ojeda@arauco.cl,,"Technology Manager - Architecture &amp, AI",ARAUCO,,Santiago,,,CL,Fabricacion de papel y productos forestales,https://arauco.com/chile/,Zebra
+Hernan Jaures Villarroel,+56959060284:+56995340258,hjaures@smu.cl,hjaures@gmail.com,Jefe de Area Tecnologia y Procesos,SMU S.A. (Unimarc M10 Alvi y Super10),,Santiago,,,CL,,http://www.smu.cl,Zebra
+Miguel Espinosa,+56991894984:+56999970420,mespinosa@smu.cl,,Jefe de Proyectos TI,SMU S.A. (Unimarc M10 Alvi y Super10),,Santiago,,,CL,,http://www.smu.cl,Zebra
+Carola Osses,+566006000025,cosses@smu.cl,,Finanzas,SMU S.A. (Unimarc M10 Alvi y Super10),,Santiago,,,CL,,http://www.smu.cl,Zebra
+Hector Olivares L,+566006000025,hector.olivares@iansa.cl,holivaresl@hotmail.com,Gerente Tesoreria y Planificacion Financiera,SMU S.A. (Unimarc M10 Alvi y Super10),,Santiago,,,CL,,http://www.smu.cl,Zebra
+Cristian Guajardo Celedon,+56985962262:+56224810059,,cristian.guajardo@gmail.com,CIO | CTO | Gerente de TI,Farmacias Ahumada,,Santiago,,,CL,,http://www.farmaciasahumada.cl,Zebra
+Dennis Mahorney,+56979796615:+56975680386,,dennismahorney@yahoo.com,"Jefe de Proyectos de Innovacion &amp, Salud",Farmacias Ahumada,,Santiago,,,CL,,http://www.farmaciasahumada.cl,Zebra
+Alejandro Vera Zuzulich,+56973897868:+56224750377,,alejandro.veraz@gmail.com,Gerente de Administracion y Finanzas | Director Financiero | CFO,Farmacias Ahumada,,Santiago,,,CL,,http://www.farmaciasahumada.cl,Zebra
+Pablo Besnier,+56941353427:+56976478458,,,Gerente de Control de Gestion Financiera,Farmacias Ahumada,,Santiago,,,CL,,http://www.farmaciasahumada.cl,Zebra
+Gloria Pinto Salas,+56991653465,gloria.pinto@cencosud.com,javigna@msn.com,Jefe Administracion de Tesoreria,Cencosud,,Santiago,,,CL,,http://www.cencosud.com,Zebra
+Pedro Stankovsky,+56951072123,pedro.stankovsky@cencosud.com,p.ibarrast@gmail.com,Service Manager Technology,Cencosud,,Santiago,,,CL,,http://www.cencosud.com,Zebra
+Heraldo Bispo do N. Junior,+56977149875,heraldo.bispo@cencosud.com,heraldo-junior@hotmail.com.br,IT Director,Cencosud,,Santiago,,,CL,,http://www.cencosud.com,Zebra
+Maximo Morel Guzman,+56978995528:+56984190716,maximo.morel@indumotora.cl,morelmax@yahoo.com,CEO Gerente General,Indumotora,,Santiago,,,CL,,https://www.indumotoraone.cl/,Zebra
+Ivan Contreras Lorenzini,+51951429690,ivan.contreras@indumotora.cl,ivanko123@hotmail.com,Gerente de Administracion y Finanzas Corporativo,Indumotora,,Santiago,,,CL,,https://www.indumotoraone.cl/,Zebra
+Guido Christiansen,+56984289538:+56994396790,christiansen-guido@indumotora.cl,,Gerente deTecnologia y Sistemas,Indumotora,,Santiago,,,CL,,https://www.indumotoraone.cl/,Zebra
+Marcela Lujan,+56962280144,,marcela.lujn@gmail.com,Gerente de Administracion y Finanzas,Indumotora,,Santiago,,,CL,,https://www.indumotoraone.cl/,Zebra
+Mauricio Silva Rivas,+56957205711,mauricio.silva@indumotora.cl,vmsilvar@gmail.com,Gerente de Tecnologias y Sistemas,Indumotora,,Santiago,,,CL,,https://www.indumotoraone.cl/,Zebra
+Fernando Poch Honorato,+56989026380:+56223934149,fpoch@bbosch.cl,fernando.poch@gmail.com,Gerente General - CEO,BBosch S.A.,,Santiago,,,CL,,http://www.bbosch.cl,Zebra
+Ricardo Redlich Kausel,+56985027381,rredlich@bbosch.cl,,Gerente de Estructuras,BBosch S.A.,,Santiago,,,CL,,http://www.bbosch.cl,Zebra
+Michel Quiroz,+56998749922:+56224589427,lquiroz@bbosch.cl,luis.michel.q@gmail.com,Gerente de Administracion y Finanzas,BBosch S.A.,,Santiago,,,CL,,http://www.bbosch.cl,Zebra
+David Espinoza,+56993182862,despinoza@bbosch.cl,,Jefe de Operaciones TIC,BBosch S.A.,,Santiago,,,CL,,http://www.bbosch.cl,Zebra
+Javier Ruiz,+56974310588,jruiz@bbosch.cl,tic.javier.ruiz@gmail.com,Jefe de Soporte y Sistemas,BBosch S.A.,,Santiago,,,CL,,http://www.bbosch.cl,Zebra
+Matias Verdugo,+56995341007:+56998417263,mverdugo@empresassb.cl,,Gerente General,Empresas SB,,Santiago,,,CL,,https://www.empresassb.cl/,Zebra
+Juan Eduardo Kurten,+56981528491:+56994453484,jkurten@empresassb.cl,jkurtenv@gmail.com,Gerente de Desarrollo Sistemas,Empresas SB,,Santiago,,,CL,,https://www.empresassb.cl/,Zebra
+Felipe O'Brien Solar,+56993369020:+56222069999,fobrien@empresassb.cl,obrienfelipe@gmail.com,Gerente de Administracion y Finanzas,Empresas SB,,Santiago,,,CL,,https://www.empresassb.cl/,Zebra
+Luciano De la Cerda,+56993188288:+56224902690,lde@empresassb.cl,lucale@gmail.com,"Gerente de Infraestructura &amp, Cloud",Empresas SB,,Santiago,,,CL,,https://www.empresassb.cl/,Zebra
+Ing. Carlos Vizcaya,+56223802902:+56223802976,carlos.vizcaya@adretail.cl,,Gerente Digital (CIO/CDO),Abcdin,,Providencia,,,CL,Retail,http://www.abcdin.cl,Zebra
+Ing. John Plaut,+56222143542:+56228373250,jplaut@dimerc.cl,,Gerente Corporativo de TI y Proceso,Dimerc Sa,,Santiago,,,CL,Retail,http://www.dimerc.cl,Zebra
+Ing. Jaime Bahamonde,+56223688605:+56223688618,jbahamonde@lapolar.cl,,Gerente de Servicios TI,Empresas La Polar Sa,,Renca,,,CL,Retail,http://www.lapolar.cl,Zebra
+Soledad Rojas,+56222055199,soledad.rojas@hites.cl,,Senior Product Marketing Manager,Hites,,Santiago,,,CL,Retail,http://www.hites.com,Zebra
+Thomas Schalchli,+5491131663448,tschalchli@vidaintegra.cl,,Subgerente de Operaciones y Procesos,VIDAINTEGRA SA,,Quilicura,,,CL,Fabricacion de equipo medico,https://www.vidaintegra.cl/,Zebra
+Constanza Toro Larranaga,+56225403651,ctoro@vidaintegra.cl,,Subgerente Comercial de Laboratorio y Dental,VIDAINTEGRA SA,,Quilicura,,,CL,Fabricacion de equipo medico,https://www.vidaintegra.cl/,Zebra
+Rodrigo Menendez Martinez,+56224226000,rodrigo.menendez@precision.tech,,Operations Director,PRECISION,,Santiago,,,CL,Fabricacion de maquinaria de automatizacion,https://www.precision.tech/cl/,Zebra
+Mauricio Reyes Figueroa,+542994496000:+56996093820,mauricio.reyes@precision.tech,,Vice Presidente de Tecnologia | Vice President of Technology Chile Peru Ecuador y Bolivia,PRECISION,,Santiago,,,CL,Fabricacion de maquinaria de automatizacion,https://www.precision.tech/cl/,Zebra
+Manuel Altomonte,+56224226000,manuel.altomonte@precision.cl,,VP of Marketing,PRECISION,,Santiago,,,CL,Fabricacion de maquinaria de automatizacion,https://www.precision.tech/cl/,Zebra
+Jorge Cardenas,+56990514131,jorge.cardenas@precision.cl,,Gerente Comercial,PRECISION,,Santiago,,,CL,Fabricacion de maquinaria de automatizacion,https://www.precision.tech/cl/,Zebra
+Lorena Gomez,+5491163377407:+56225127659:+56228935305,lorena.gomez@construmart.cl,,Sub Gerente de Sistemas,Construmart S.A,,San Miguel,,,CL,Construccion,https://www.construmart.cl/,Zebra
+Gonzalo Aruta Acuna,+56225127621,garuta@construmart.cl,,Gerente de finanzas,Construmart S.A,,San Miguel,,,CL,Construccion,https://www.construmart.cl/,Zebra
+rodrigo Bustos,+56225601500,b_rodrigo@derco.cl,,Gerente administracion y finanzas,Derco,,Quilicura,,,CL,Comercio al por menor de vehiculos de motor,https://www.dercocenter.cl/,Zebra
+Cristian Felipe Garrido Castillo,+56225601500:+78797010,,cristian.garrido@gmail.com,SubGerente de Plataformas y Sistemas TI,Derco,,Quilicura,,,CL,Comercio al por menor de vehiculos de motor,https://www.dercocenter.cl/,Zebra
+Maria de los Angeles Gonzalez Caceres,+34913985400,,m_angelesgonzalez@yahoo.es,Marketing Manager JAC,Derco,,Quilicura,,,CL,Comercio al por menor de vehiculos de motor,https://www.dercocenter.cl/,Zebra
+claudia Diaz Jorquera,+56223655000,claudia.diaz@laboratoriochile.cl,claudia.diageo@gmail.com,CFO,Laboratorio Chile | Teva,,Santiago,,,CL,Fabricacion de productos farmaceuticos,https://www.laboratoriochile.cl,Zebra
+Mario Wozzeck Carvacho,+56223655000,mario.wozzeck@laboratoriochile.cl,,Sub gerente de operaciones,Laboratorio Chile | Teva,,Santiago,,,CL,Fabricacion de productos farmaceuticos,https://www.laboratoriochile.cl,Zebra
+Juan Ramirez Jardua,+56941738610,jramirez@laboratoriochile.cl,,IT Project Manager - Gerente de Proyectos de Tecnologia,Laboratorio Chile | Teva,,Santiago,,,CL,Fabricacion de productos farmaceuticos,https://www.laboratoriochile.cl,Zebra
+Williams Silva Ortega,+56225600000,wsilva@pcfactory.cl,williams.silva.or@gmail.com,Subgerente desarrollo TI,PC Factory,,Santiago,,,CL,Comercio al por menor,https://www.pcfactory.cl/?srsltid=AfmBOoo4aDi4_z9nzGUYLUPi9LAp-A3BvWd9n61-U8pmaDi7DUdOKImH,Zebra
+Cristian Orellana,+543487443301,corellana@pcfactory.cl,,Gerencia de Operaciones,PC Factory,,Santiago,,,CL,Comercio al por menor,https://www.pcfactory.cl/?srsltid=AfmBOoo4aDi4_z9nzGUYLUPi9LAp-A3BvWd9n61-U8pmaDi7DUdOKImH,Zebra
+Alejandro Lillo Urrutia,+543487443000,alillo@pcfactory.cl,,CFO,PC Factory,,Santiago,,,CL,Comercio al por menor,https://www.pcfactory.cl/?srsltid=AfmBOoo4aDi4_z9nzGUYLUPi9LAp-A3BvWd9n61-U8pmaDi7DUdOKImH,Zebra
+Juan Pablo Latorre,+573102209000,juan.latorre@skyairline.com,,CFO,SKY Airline,,Santiago,,,CL,Fabricacion de componentes aeroespaciales y de aviacion,http://www.skyairline.com,Zebra
+Gonzalo Alcoholado,+5491167135331:+56993662696,gonzalo.alcoholado@skyairline.com,,Gerente de tecnologia,SKY Airline,,Santiago,,,CL,Fabricacion de componentes aeroespaciales y de aviacion,http://www.skyairline.com,Zebra
+Rodrigo Prado,+19177154668,rprado@walmartchile.cl,rodrigo.prado@columbia.edu,Technology Portfolio Management Director,Walmart Chile,,Santiago,,,CL,,https://www.walmartchile.cl/,Zebra
+Rene Lamas Orellana,+56991473201:+56950241154,rlamas@walmartchile.cl,reanlaor@gmail.com,Finance Transformation Director,Walmart Chile,,Santiago,,,CL,,https://www.walmartchile.cl/,Zebra
+Sergio Belmar Caamano,+56953961118:+56978996383,sbelmar@softys.com,sergiobelmar@hotmail.com,Director Regional de Infraestructuras y Operaciones Tecnologicas,Softys,,Santiago,,,CL,,http://www.softys.com,Zebra
+Carlos Enrique Parra Vilchez,+56978401104:+56953663619,cparra@softys.com,ceparrav1@gmail.com,Jefe de TI,Softys,,Santiago,,,CL,,http://www.softys.com,Zebra
+Eduardo Nunez Burbano de Lara,+56994795032:+56224412000,enunez@softys.com,eduardonbl@hotmail.com,CFO,Softys,,Santiago,,,CL,,http://www.softys.com,Zebra
+Marco Antonio Contreras Flores,+56982880359,,mcontrerflo@gmail.com,Gerente Administracion y Finanzas,Softys,,Santiago,,,CL,,http://www.softys.com,Zebra
+Flavio Fernandez-Davila M,+56224617271,,flavio.fernandez@gmail.com,Subgerente De Proyectos Ti,Arauco,,,,,CL,,,Zebra
+Leandro San Miguel,+56224617271,,leandrosanmiguel@gmail.com,Cio,Arauco,,,,,CL,,,Zebra
+Raul Munoz,+56982332062:+56997995601,raul.munoz@arauco.cl,,"Gerente de operaciones Chile &amp,amp, Argentina",ARAUCO,,Santiago,,,CL,Fabricacion de papel y productos forestales,https://arauco.com/chile/,Zebra
+Felipe Ojeda,+56973391406,felipe.ojeda@arauco.cl,,"Technology Manager - Architecture &amp,amp, AI",ARAUCO,,Santiago,,,CL,Fabricacion de papel y productos forestales,https://arauco.com/chile/,Zebra
+Carolina Estay Diaz,+15624412000,,carolina.estay@cmpc.cl,Subgerente Gestion Ti,Cmpc,,,,,CL,"Paper &amp,amp, Forest Products",,Zebra
+Felipe Alcalde Arrau,+15624412000,,alcaldefelipe@gmail.com,Chief Innovation Officer,Cmpc,,,,,CL,Management Consulting,,Zebra
+Fernando Jofre,+15624412000,,fernandojofrea@gmail.com,"Director Innovation &amp,amp, Transformation",Cmpc,,,,,CL,"Paper &amp,amp, Forest Products",,Zebra
+Guido Christiansen,+56984289538:+56994396790,christiansen-guido@indumotora.cl,,Gerente deTecnologia y Sistemas,Indumotora,,Santiago,,,CL,,https://www.indumotoraone.cl/,Zebra
+Valentino De Rienzo,+59826838000,vrienzo@megalabs.global,,Administrador de sistemas - Jefe de Operaciones de Infraestructura,Megalabs,,Montevideo,,,UY,Fabricacion De Productos Farmaceuticos,https://www.megalabs.com.uy/,Zebra

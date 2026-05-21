@@ -1,0 +1,41 @@
+column,dtype,rows,missing,non_missing,completeness_pct,unique_non_null,sample_values
+EXTENSION,object,51687,50813,874,1.69,642,2767 | 51978119277 | +506 7106 7986 | +506 2228 9450 | +503 6009 0303
+TELEFONO 2,object,51687,48941,2746,5.31,2602,593 4-238-0387 | 502 5368 3112 | 502 4154 7247 | 502 5204 2767 | 52 800 347 1111
+MONEDA FACTURACIÓN,object,51687,48693,2994,5.79,2,USD | COP
+RAZON SOCIAL,object,51687,44002,7685,14.87,3549,"IKÉ GRUPO EMPRESARIAL, S.A.P.I. de C.V,  - https://ikeasistencia.com/aviso-legal-y-de-privacidad/ | Banco Ve por Más | Marsh | GNP  Seguros | Scotiabank"
+TELEFONO 1,object,51687,39716,11971,23.16,11342,503 7873 2347 | 593 99 961 1835 | 593 4-283-6819 | 502 5510 9155 | 502 5293 0008
+CORREO ELECTRÓNICO PERSONAL,object,51687,38140,13547,26.21,12093,fango333@hotmail.com | maucasdi@hotmail.com | julycordoba@hotmail.com | judlopez82@gmail.com | pacomendez@gmail.com
+CAMPAÑA,object,51687,36589,15098,29.21,34,MORRIS & OPPAZO | NEXSYS AZURE | NEXSYS SEGURIDAD | PROACTIVA MX | LIFERAY
+DEPARTAMENTO / ESTADO,object,51687,32779,18908,36.58,1126,San Juan | Guaynabo | Ponce | Cayey | Caguas
+SECTOR,object,51687,27901,23786,46.02,269,Manufactura e Industria | Comercio (equivales a retail y consumo masivo) | Servicios Financieros | Energía y Recursos Naturales | Transporte y Logística
+FACTURACIÓN EMPRESA,object,51687,19963,31724,61.38,305,80m - 150m | 1m - 5m | 5m - 20m | 600m - 1mm | 1mm - 40mm
+CELULAR,object,51687,15559,36128,69.9,33341,1 787-448-8826 | 1 787-691-8846 | 57 312 4327162 y 57 317 5014055 | 57 310 7507635 y 57 317-367-5740 | 57 300 6550967 y 57 317 4021350
+CORREO ELECTRÓNICO CORPORATIVO,object,51687,11940,39747,76.9,36370,w.buell@advantagelife.com | carola.acum@americasleading.com | jose.correa@americasleading.com | lsanchez@segurosmultiples.com | naponte@cosvi.com
+DESCRIPCIÓN COMPAÑÍA,object,51687,8537,43150,83.48,18064,"Somos La Primera Institución De La Región Caribe Colombiano Centrada En Una Medicina De Alta Precisión | Grupo Accionplus, Somos El Holding Colombiano Líder En La Prestación De Soluciones De Outsourcing Basadas En Talento Humano. Con Más De 38.000 Colaboradores, Somos Uno De Los Principales Empleadores Del País, Prestando Servicios A Las Principales Compañías E Instituciones A Nivel Nacional.
+Fundado En 1975 En Cali Con Los Servicios De Selección Y Suministro De Personal Temporal. Desde 1997 Incorporamos Los Servicios De Outsourcing En Mercadeo, Aseo Y Mantenimiento Industrial.
+
+El Año 1992, Consolidamos El Proceso De Sistematización Y La Presencia Permanente En Cali, Bogotá, Medellín, Barranquilla Y Pereira.
+Desde 1997, A Través De La Firma Acciones Y Servicios S.A.S Creamos Una Línea De Negocios Dedicada Exclusivamente A La Prestación De Servicios De Mercadeo En Punto De Venta.
+En 2002, Nos Consolidamos Con El Sistema Más Moderno De Selección, Contratación, Pagos Y Facturación Para El Personal En Misión.
+En El 2007, Iniciamos La Prestación De Servicios De Salud, Con La Creación De La Compañía “Accion Salud”. | En 1904 En Cali, Colombia. Inicia Un Sueño Familiar Que Ha Evolucionado Generación Tras Generación, Transformándonos En Lo Que Somos Hoy, Una Empresa Multilatina Con Presencia En 10 Países Y En 3 Sectores: Papel Y Empaques, Tecnología Y Servicios E Inmobiliario. Somos Una Organización Comprometida Con El Cuidado De Los Recursos Naturales, Las Comunidades Y Nuestros Más De 17 Mil Soñadores Que Conforman Esta Familia.
+
+ | Claro Colombia Es Una Compañía Que Distribuye Servicios De Telefonía Celular, Telefonía Fija, Televisión E Internet. Nació Como Resultado De La Integración De Comunicación Celular S.A. Y Telmex Colombia S.A. Al Cierre De 2014 Claro Ya Contaba Con 2 Millones De Suscriptores A Sus Servicios De Televisión , 1,6 De Usuarios De Internet Banda Ancha Y 1,4 Millones De Telefonía Fija. Sin Embargo, Estos No Son Los Únicos Servicios Que Presta Claro Colombia. Servicios Como Claro Video Y Claro Cloud Son Un Nuevo Segmento Con El Que La Compañía Está Atendiendo Las Nuevas Necesidades De Los Usuarios. Claro Cloud Lidera En El País El Segmento Corporativo, Llegando A Compañías De Todos Los Tamaños Del País Soluciones De Almacenamiento En La Nube Y Data Center.
+Claro Colombia Es Actualmente El Operador De Servicios De Telecomunicaciones Móviles, Internet, Televisión, Telefonía Fija Y Soluciones Corporativas Con Mayor Cobertura En Colombia. Inició Sus Operaciones En 1994 Bajo La Marca Comcel Y Desde 2012, Tras La Unión Con Telmex Colombia, Opera Bajo La Marca Claro. | Nos Apasiona La Innovación Y La Excelencia, Consideramos El Cliente Como El Centro De Nuestra Organización, Integramos Capacidades Digitales Y El Mejor Talento Con El Fin De Ofrecer Experiencias Memorables Con Nuestros Productos Y Servicios. 💡🌐
+
+Actualmente, Emtelco Diseña Soluciones De Bpo Para Conectar Clientes Corporativos Con Sus Usuarios Finales A Través De Diferentes Servicios: Servicio Al Cliente, Venta, Cobranzas, Back Office Y Mesa De Servicios, Esto Por Medio De Diferentes Canales: Telefónicos, Virtuales Y Presenciales.
+En Los Últimos Años, La Compañía Ha Tenido Un Crecimiento Interanual Promedio En Ventas Del 30%, Resultado Que Están Por Encima Del Crecimiento De La Industria En Colombia (14%-16%) Y Que La Posiciona Como Líder Del Sector."
+CIUDAD / PROVINCIAS,object,51687,8470,43217,83.61,2956,San Juan | Guaynabo | Mercedita | Cayey | Ponce
+TELÉFONO DE EMPRESA,object,51687,7448,44239,85.59,20633,1 787-705-2900 | 1 787-626-0000 | 787(787) 758-8585 | 787(787) 751-7373 | 787-725-1500
+DIRECCIÓN,object,51687,7207,44480,86.06,19346,"Cra. 50 #80-90, Nte. Centro Historico, | Barranquilla · Calle 58 #47-08 · Prado | Calle 29 Norte 6A-40, Cali, Valle Del Cauca |  Carrera 68A # 24B - 10 Municipio: Bogotá | Cl. 66 #1N – 62, Comuna 4, Cali, Valle Del Cauca"
+NÚMERO DE EMPLEADOS,object,51687,6416,45271,87.59,130,51-200 | 201-500 | 1001-5000 | 5001-10000 | 1-10
+ÁREA,object,51687,5272,46415,89.8,94,Dirección General | Operaciones | Tecnología | Marketing | Recursos Humanos
+INDUSTRIA,object,51687,3987,47700,92.29,1877,Insurance | Financial Services | Banking | Higher Education | Hospitales Y Atención Sanitaria
+URL LINKEDIN EMPRESA,object,51687,2822,48865,94.54,18982,http://www.linkedin.com/company/advantage-insurance-holdings-ltd | http://www.linkedin.com/company/americas-leading-finance-llc | http://www.linkedin.com/company/cooperativa-de-seguros-multiples | http://www.linkedin.com/company/cosvi-assests-management-corporation | http://www.linkedin.com/company/drivenadvisors
+PÁGINA WEB,object,51687,2564,49123,95.04,18961,http://www.advantagelife.com | http://www.americasleading.com | http://www.segurosmultiples.com | http://www.cosvi.com | http://www.drivenadvisors.com
+MANAGEMENT LEVEL,object,51687,2262,49425,95.62,68,C-level | Gerente | Director | Entry | Vp
+URL LINKEDIN 1,object,51687,224,51463,99.57,49685,http://www.linkedin.com/in/wcbuell | http://www.linkedin.com/in/carola-acum-53411597 | http://www.linkedin.com/in/jose-correa-salde%c3%b1o-145b6ab4 | http://www.linkedin.com/in/luis-sanchez-7797aa34 | http://www.linkedin.com/in/nydian-aponte-a1020b15
+CARGO,object,51687,70,51617,99.86,24321,Chief Executive Officer | Chief Operating Officer | CIO | IT Operations & Infrastructure Manager | IT Director
+PAÍS,object,51687,21,51666,99.96,48,Puerto Rico | Colombia | Nicaragua | Guatemala | Honduras
+INTERLOCUTOR 1,object,51687,16,51671,99.97,46839,William Buell | Carola Acum | Jose Saldeno | Luis Sanchez | Nydian Aponte
+NOMBRE COMERCIAL EMPRESA,object,51687,15,51672,99.97,21893,Advantage Insurance | Americas Leading Finance Llc | Cooperativa De Seguros Multiples De Pr | Cosvi | Driven Advisors
+Fecha Carga,datetime64[ns],51687,0,51687,100.0,14,2023-12-30 | 2024-09-27 | 2024-10-27 | 2025-04-15 | 2025-05-29
